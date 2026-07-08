@@ -1,0 +1,6882 @@
+{
+  "source_pdf": "source.pdf",
+  "source_docling_json": "docling/source.json",
+  "text": "text.md",
+  "visual_count": 78,
+  "crop_sheets": [
+    {
+      "kind": "crop",
+      "sheet": "crop-sheets/crop-sheet-001.webp",
+      "width_px": 1502,
+      "height_px": 1679,
+      "items": [
+        {
+          "self_ref": "#/tables/0",
+          "label": "document_index",
+          "kind": "table",
+          "page_no": 3,
+          "source": "visual-crops/p003_0058_table_tables_0.webp",
+          "bbox_px": [
+            6,
+            6,
+            958,
+            1195
+          ],
+          "label_bbox_px": [
+            4,
+            1199,
+            960,
+            1234
+          ],
+          "border_bbox_px": [
+            4,
+            4,
+            960,
+            1197
+          ],
+          "width_px": 952,
+          "height_px": 1189
+        },
+        {
+          "self_ref": "#/texts/1808",
+          "label": "code",
+          "kind": "code",
+          "page_no": 90,
+          "source": "visual-crops/p090_0019_code_texts_1808.webp",
+          "bbox_px": [
+            6,
+            1236,
+            921,
+            1636
+          ],
+          "label_bbox_px": [
+            4,
+            1640,
+            923,
+            1675
+          ],
+          "border_bbox_px": [
+            4,
+            1234,
+            923,
+            1638
+          ],
+          "width_px": 915,
+          "height_px": 400
+        },
+        {
+          "self_ref": "#/tables/15",
+          "label": "table",
+          "kind": "table",
+          "page_no": 56,
+          "source": "visual-crops/p056_0073_table_tables_15.webp",
+          "bbox_px": [
+            962,
+            6,
+            1496,
+            198
+          ],
+          "label_bbox_px": [
+            960,
+            202,
+            1498,
+            237
+          ],
+          "border_bbox_px": [
+            960,
+            4,
+            1498,
+            200
+          ],
+          "width_px": 534,
+          "height_px": 192
+        },
+        {
+          "self_ref": "#/tables/7",
+          "label": "table",
+          "kind": "table",
+          "page_no": 21,
+          "source": "visual-crops/p021_0065_table_tables_7.webp",
+          "bbox_px": [
+            962,
+            239,
+            1475,
+            390
+          ],
+          "label_bbox_px": [
+            960,
+            394,
+            1477,
+            429
+          ],
+          "border_bbox_px": [
+            960,
+            237,
+            1477,
+            392
+          ],
+          "width_px": 513,
+          "height_px": 151
+        },
+        {
+          "self_ref": "#/tables/11",
+          "label": "table",
+          "kind": "table",
+          "page_no": 49,
+          "source": "visual-crops/p049_0069_table_tables_11.webp",
+          "bbox_px": [
+            925,
+            1236,
+            1486,
+            1358
+          ],
+          "label_bbox_px": [
+            923,
+            1362,
+            1488,
+            1397
+          ],
+          "border_bbox_px": [
+            923,
+            1234,
+            1488,
+            1360
+          ],
+          "width_px": 561,
+          "height_px": 122
+        },
+        {
+          "self_ref": "#/tables/5",
+          "label": "table",
+          "kind": "table",
+          "page_no": 13,
+          "source": "visual-crops/p013_0063_table_tables_5.webp",
+          "bbox_px": [
+            962,
+            431,
+            1366,
+            576
+          ],
+          "label_bbox_px": [
+            960,
+            580,
+            1368,
+            615
+          ],
+          "border_bbox_px": [
+            960,
+            429,
+            1368,
+            578
+          ],
+          "width_px": 404,
+          "height_px": 145
+        },
+        {
+          "self_ref": "#/tables/20",
+          "label": "table",
+          "kind": "table",
+          "page_no": 105,
+          "source": "visual-crops/p105_0078_table_tables_20.webp",
+          "bbox_px": [
+            962,
+            617,
+            1337,
+            734
+          ],
+          "label_bbox_px": [
+            960,
+            738,
+            1339,
+            773
+          ],
+          "border_bbox_px": [
+            960,
+            615,
+            1339,
+            736
+          ],
+          "width_px": 375,
+          "height_px": 117
+        },
+        {
+          "self_ref": "#/texts/905",
+          "label": "formula",
+          "kind": "formula",
+          "page_no": 33,
+          "source": "visual-crops/p033_0012_formula_texts_905.webp",
+          "bbox_px": [
+            925,
+            1399,
+            1490,
+            1452
+          ],
+          "label_bbox_px": [
+            923,
+            1456,
+            1492,
+            1491
+          ],
+          "border_bbox_px": [
+            923,
+            1397,
+            1492,
+            1454
+          ],
+          "width_px": 565,
+          "height_px": 53
+        },
+        {
+          "self_ref": "#/texts/122",
+          "label": "formula",
+          "kind": "formula",
+          "page_no": 8,
+          "source": "visual-crops/p008_0002_formula_texts_122.webp",
+          "bbox_px": [
+            925,
+            1493,
+            1469,
+            1549
+          ],
+          "label_bbox_px": [
+            923,
+            1553,
+            1471,
+            1588
+          ],
+          "border_bbox_px": [
+            923,
+            1491,
+            1471,
+            1551
+          ],
+          "width_px": 544,
+          "height_px": 56
+        },
+        {
+          "self_ref": "#/texts/881",
+          "label": "formula",
+          "kind": "formula",
+          "page_no": 31,
+          "source": "visual-crops/p031_0006_formula_texts_881.webp",
+          "bbox_px": [
+            962,
+            775,
+            1349,
+            857
+          ],
+          "label_bbox_px": [
+            960,
+            861,
+            1351,
+            896
+          ],
+          "border_bbox_px": [
+            960,
+            773,
+            1351,
+            859
+          ],
+          "width_px": 387,
+          "height_px": 82
+        },
+        {
+          "self_ref": "#/texts/874",
+          "label": "formula",
+          "kind": "formula",
+          "page_no": 31,
+          "source": "visual-crops/p031_0003_formula_texts_874.webp",
+          "bbox_px": [
+            925,
+            1590,
+            1465,
+            1620
+          ],
+          "label_bbox_px": [
+            923,
+            1624,
+            1467,
+            1659
+          ],
+          "border_bbox_px": [
+            923,
+            1588,
+            1467,
+            1622
+          ],
+          "width_px": 540,
+          "height_px": 30
+        }
+      ],
+      "packing_algorithm": "rectpack-maxrects-bl"
+    },
+    {
+      "kind": "crop",
+      "sheet": "crop-sheets/crop-sheet-002.webp",
+      "width_px": 944,
+      "height_px": 1680,
+      "items": [
+        {
+          "self_ref": "#/texts/1861",
+          "label": "code",
+          "kind": "code",
+          "page_no": 96,
+          "source": "visual-crops/p096_0034_code_texts_1861.webp",
+          "bbox_px": [
+            6,
+            6,
+            938,
+            1158
+          ],
+          "label_bbox_px": [
+            4,
+            1162,
+            940,
+            1197
+          ],
+          "border_bbox_px": [
+            4,
+            4,
+            940,
+            1160
+          ],
+          "width_px": 932,
+          "height_px": 1152
+        },
+        {
+          "self_ref": "#/texts/1858",
+          "label": "code",
+          "kind": "code",
+          "page_no": 95,
+          "source": "visual-crops/p095_0033_code_texts_1858.webp",
+          "bbox_px": [
+            6,
+            1199,
+            930,
+            1637
+          ],
+          "label_bbox_px": [
+            4,
+            1641,
+            932,
+            1676
+          ],
+          "border_bbox_px": [
+            4,
+            1197,
+            932,
+            1639
+          ],
+          "width_px": 924,
+          "height_px": 438
+        }
+      ],
+      "packing_algorithm": "rectpack-maxrects-bl"
+    },
+    {
+      "kind": "crop",
+      "sheet": "crop-sheets/crop-sheet-003.webp",
+      "width_px": 929,
+      "height_px": 1642,
+      "items": [
+        {
+          "self_ref": "#/pictures/20",
+          "label": "picture",
+          "kind": "picture",
+          "page_no": 88,
+          "source": "visual-crops/p088_0056_picture_pictures_20.webp",
+          "bbox_px": [
+            6,
+            6,
+            923,
+            1000
+          ],
+          "label_bbox_px": [
+            4,
+            1004,
+            925,
+            1039
+          ],
+          "border_bbox_px": [
+            4,
+            4,
+            925,
+            1002
+          ],
+          "width_px": 917,
+          "height_px": 994
+        },
+        {
+          "self_ref": "#/texts/1837",
+          "label": "code",
+          "kind": "code",
+          "page_no": 93,
+          "source": "visual-crops/p093_0031_code_texts_1837.webp",
+          "bbox_px": [
+            6,
+            1041,
+            921,
+            1599
+          ],
+          "label_bbox_px": [
+            4,
+            1603,
+            923,
+            1638
+          ],
+          "border_bbox_px": [
+            4,
+            1039,
+            923,
+            1601
+          ],
+          "width_px": 915,
+          "height_px": 558
+        }
+      ],
+      "packing_algorithm": "rectpack-maxrects-bl"
+    },
+    {
+      "kind": "crop",
+      "sheet": "crop-sheets/crop-sheet-004.webp",
+      "width_px": 963,
+      "height_px": 1671,
+      "items": [
+        {
+          "self_ref": "#/tables/1",
+          "label": "document_index",
+          "kind": "table",
+          "page_no": 4,
+          "source": "visual-crops/p004_0059_table_tables_1.webp",
+          "bbox_px": [
+            6,
+            6,
+            957,
+            917
+          ],
+          "label_bbox_px": [
+            4,
+            921,
+            959,
+            956
+          ],
+          "border_bbox_px": [
+            4,
+            4,
+            959,
+            919
+          ],
+          "width_px": 951,
+          "height_px": 911
+        },
+        {
+          "self_ref": "#/pictures/3",
+          "label": "picture",
+          "kind": "picture",
+          "page_no": 12,
+          "source": "visual-crops/p012_0039_picture_pictures_3.webp",
+          "bbox_px": [
+            6,
+            958,
+            918,
+            1628
+          ],
+          "label_bbox_px": [
+            4,
+            1632,
+            920,
+            1667
+          ],
+          "border_bbox_px": [
+            4,
+            956,
+            920,
+            1630
+          ],
+          "width_px": 912,
+          "height_px": 670
+        }
+      ],
+      "packing_algorithm": "rectpack-maxrects-bl"
+    },
+    {
+      "kind": "crop",
+      "sheet": "crop-sheets/crop-sheet-005.webp",
+      "width_px": 1468,
+      "height_px": 1677,
+      "items": [
+        {
+          "self_ref": "#/texts/1890",
+          "label": "code",
+          "kind": "code",
+          "page_no": 100,
+          "source": "visual-crops/p100_0035_code_texts_1890.webp",
+          "bbox_px": [
+            6,
+            6,
+            921,
+            875
+          ],
+          "label_bbox_px": [
+            4,
+            879,
+            923,
+            914
+          ],
+          "border_bbox_px": [
+            4,
+            4,
+            923,
+            877
+          ],
+          "width_px": 915,
+          "height_px": 869
+        },
+        {
+          "self_ref": "#/pictures/9",
+          "label": "picture",
+          "kind": "picture",
+          "page_no": 24,
+          "source": "visual-crops/p024_0045_picture_pictures_9.webp",
+          "bbox_px": [
+            6,
+            916,
+            946,
+            1552
+          ],
+          "label_bbox_px": [
+            4,
+            1556,
+            948,
+            1591
+          ],
+          "border_bbox_px": [
+            4,
+            914,
+            948,
+            1554
+          ],
+          "width_px": 940,
+          "height_px": 636
+        },
+        {
+          "self_ref": "#/texts/899",
+          "label": "formula",
+          "kind": "formula",
+          "page_no": 33,
+          "source": "visual-crops/p033_0010_formula_texts_899.webp",
+          "bbox_px": [
+            6,
+            1593,
+            734,
+            1634
+          ],
+          "label_bbox_px": [
+            4,
+            1638,
+            736,
+            1673
+          ],
+          "border_bbox_px": [
+            4,
+            1591,
+            736,
+            1636
+          ],
+          "width_px": 728,
+          "height_px": 41
+        },
+        {
+          "self_ref": "#/texts/1121",
+          "label": "code",
+          "kind": "code",
+          "page_no": 44,
+          "source": "visual-crops/p044_0014_code_texts_1121.webp",
+          "bbox_px": [
+            738,
+            1593,
+            1462,
+            1624
+          ],
+          "label_bbox_px": [
+            736,
+            1628,
+            1464,
+            1663
+          ],
+          "border_bbox_px": [
+            736,
+            1591,
+            1464,
+            1626
+          ],
+          "width_px": 724,
+          "height_px": 31
+        }
+      ],
+      "packing_algorithm": "rectpack-maxrects-bl"
+    },
+    {
+      "kind": "crop",
+      "sheet": "crop-sheets/crop-sheet-006.webp",
+      "width_px": 1489,
+      "height_px": 1676,
+      "items": [
+        {
+          "self_ref": "#/tables/16",
+          "label": "table",
+          "kind": "table",
+          "page_no": 98,
+          "source": "visual-crops/p098_0074_table_tables_16.webp",
+          "bbox_px": [
+            6,
+            6,
+            895,
+            645
+          ],
+          "label_bbox_px": [
+            4,
+            649,
+            897,
+            684
+          ],
+          "border_bbox_px": [
+            4,
+            4,
+            897,
+            647
+          ],
+          "width_px": 889,
+          "height_px": 639
+        },
+        {
+          "self_ref": "#/pictures/1",
+          "label": "picture",
+          "kind": "picture",
+          "page_no": 5,
+          "source": "visual-crops/p005_0037_picture_pictures_1.webp",
+          "bbox_px": [
+            6,
+            686,
+            839,
+            1300
+          ],
+          "label_bbox_px": [
+            4,
+            1304,
+            841,
+            1339
+          ],
+          "border_bbox_px": [
+            4,
+            684,
+            841,
+            1302
+          ],
+          "width_px": 833,
+          "height_px": 614
+        },
+        {
+          "self_ref": "#/pictures/4",
+          "label": "picture",
+          "kind": "picture",
+          "page_no": 16,
+          "source": "visual-crops/p016_0040_picture_pictures_4.webp",
+          "bbox_px": [
+            843,
+            686,
+            1448,
+            1143
+          ],
+          "label_bbox_px": [
+            841,
+            1147,
+            1450,
+            1182
+          ],
+          "border_bbox_px": [
+            841,
+            684,
+            1450,
+            1145
+          ],
+          "width_px": 605,
+          "height_px": 457
+        },
+        {
+          "self_ref": "#/tables/2",
+          "label": "table",
+          "kind": "table",
+          "page_no": 7,
+          "source": "visual-crops/p007_0060_table_tables_2.webp",
+          "bbox_px": [
+            6,
+            1341,
+            891,
+            1633
+          ],
+          "label_bbox_px": [
+            4,
+            1637,
+            893,
+            1672
+          ],
+          "border_bbox_px": [
+            4,
+            1339,
+            893,
+            1635
+          ],
+          "width_px": 885,
+          "height_px": 292
+        },
+        {
+          "self_ref": "#/texts/894",
+          "label": "formula",
+          "kind": "formula",
+          "page_no": 33,
+          "source": "visual-crops/p033_0009_formula_texts_894.webp",
+          "bbox_px": [
+            843,
+            1184,
+            1472,
+            1266
+          ],
+          "label_bbox_px": [
+            841,
+            1270,
+            1474,
+            1305
+          ],
+          "border_bbox_px": [
+            841,
+            1182,
+            1474,
+            1268
+          ],
+          "width_px": 629,
+          "height_px": 82
+        },
+        {
+          "self_ref": "#/texts/120",
+          "label": "formula",
+          "kind": "formula",
+          "page_no": 8,
+          "source": "visual-crops/p008_0001_formula_texts_120.webp",
+          "bbox_px": [
+            899,
+            6,
+            1483,
+            35
+          ],
+          "label_bbox_px": [
+            897,
+            39,
+            1485,
+            74
+          ],
+          "border_bbox_px": [
+            897,
+            4,
+            1485,
+            37
+          ],
+          "width_px": 584,
+          "height_px": 29
+        }
+      ],
+      "packing_algorithm": "rectpack-maxrects-bl"
+    },
+    {
+      "kind": "crop",
+      "sheet": "crop-sheets/crop-sheet-007.webp",
+      "width_px": 1503,
+      "height_px": 1673,
+      "items": [
+        {
+          "self_ref": "#/texts/1828",
+          "label": "code",
+          "kind": "code",
+          "page_no": 92,
+          "source": "visual-crops/p092_0027_code_texts_1828.webp",
+          "bbox_px": [
+            6,
+            6,
+            927,
+            504
+          ],
+          "label_bbox_px": [
+            4,
+            508,
+            929,
+            543
+          ],
+          "border_bbox_px": [
+            4,
+            4,
+            929,
+            506
+          ],
+          "width_px": 921,
+          "height_px": 498
+        },
+        {
+          "self_ref": "#/pictures/2",
+          "label": "picture",
+          "kind": "picture",
+          "page_no": 9,
+          "source": "visual-crops/p009_0038_picture_pictures_2.webp",
+          "bbox_px": [
+            6,
+            545,
+            888,
+            1044
+          ],
+          "label_bbox_px": [
+            4,
+            1048,
+            890,
+            1083
+          ],
+          "border_bbox_px": [
+            4,
+            543,
+            890,
+            1046
+          ],
+          "width_px": 882,
+          "height_px": 499
+        },
+        {
+          "self_ref": "#/pictures/17",
+          "label": "picture",
+          "kind": "picture",
+          "page_no": 50,
+          "source": "visual-crops/p050_0053_picture_pictures_17.webp",
+          "bbox_px": [
+            6,
+            1085,
+            915,
+            1564
+          ],
+          "label_bbox_px": [
+            4,
+            1568,
+            917,
+            1603
+          ],
+          "border_bbox_px": [
+            4,
+            1083,
+            917,
+            1566
+          ],
+          "width_px": 909,
+          "height_px": 479
+        },
+        {
+          "self_ref": "#/texts/878",
+          "label": "formula",
+          "kind": "formula",
+          "page_no": 31,
+          "source": "visual-crops/p031_0005_formula_texts_878.webp",
+          "bbox_px": [
+            892,
+            545,
+            1497,
+            609
+          ],
+          "label_bbox_px": [
+            890,
+            613,
+            1499,
+            648
+          ],
+          "border_bbox_px": [
+            890,
+            543,
+            1499,
+            611
+          ],
+          "width_px": 605,
+          "height_px": 64
+        },
+        {
+          "self_ref": "#/texts/1810",
+          "label": "code",
+          "kind": "code",
+          "page_no": 90,
+          "source": "visual-crops/p090_0020_code_texts_1810.webp",
+          "bbox_px": [
+            6,
+            1605,
+            908,
+            1630
+          ],
+          "label_bbox_px": [
+            4,
+            1634,
+            910,
+            1669
+          ],
+          "border_bbox_px": [
+            4,
+            1603,
+            910,
+            1632
+          ],
+          "width_px": 902,
+          "height_px": 25
+        }
+      ],
+      "packing_algorithm": "rectpack-maxrects-bl"
+    },
+    {
+      "kind": "crop",
+      "sheet": "crop-sheets/crop-sheet-008.webp",
+      "width_px": 1494,
+      "height_px": 1674,
+      "items": [
+        {
+          "self_ref": "#/pictures/6",
+          "label": "picture",
+          "kind": "picture",
+          "page_no": 19,
+          "source": "visual-crops/p019_0042_picture_pictures_6.webp",
+          "bbox_px": [
+            6,
+            6,
+            814,
+            520
+          ],
+          "label_bbox_px": [
+            4,
+            524,
+            816,
+            559
+          ],
+          "border_bbox_px": [
+            4,
+            4,
+            816,
+            522
+          ],
+          "width_px": 808,
+          "height_px": 514
+        },
+        {
+          "self_ref": "#/tables/4",
+          "label": "table",
+          "kind": "table",
+          "page_no": 10,
+          "source": "visual-crops/p010_0062_table_tables_4.webp",
+          "bbox_px": [
+            6,
+            561,
+            936,
+            985
+          ],
+          "label_bbox_px": [
+            4,
+            989,
+            938,
+            1024
+          ],
+          "border_bbox_px": [
+            4,
+            559,
+            938,
+            987
+          ],
+          "width_px": 930,
+          "height_px": 424
+        },
+        {
+          "self_ref": "#/texts/1823",
+          "label": "code",
+          "kind": "code",
+          "page_no": 91,
+          "source": "visual-crops/p091_0026_code_texts_1823.webp",
+          "bbox_px": [
+            6,
+            1026,
+            918,
+            1446
+          ],
+          "label_bbox_px": [
+            4,
+            1450,
+            920,
+            1485
+          ],
+          "border_bbox_px": [
+            4,
+            1024,
+            920,
+            1448
+          ],
+          "width_px": 912,
+          "height_px": 420
+        },
+        {
+          "self_ref": "#/tables/13",
+          "label": "table",
+          "kind": "table",
+          "page_no": 54,
+          "source": "visual-crops/p054_0071_table_tables_13.webp",
+          "bbox_px": [
+            6,
+            1487,
+            922,
+            1631
+          ],
+          "label_bbox_px": [
+            4,
+            1635,
+            924,
+            1670
+          ],
+          "border_bbox_px": [
+            4,
+            1485,
+            924,
+            1633
+          ],
+          "width_px": 916,
+          "height_px": 144
+        },
+        {
+          "self_ref": "#/texts/1637",
+          "label": "code",
+          "kind": "code",
+          "page_no": 82,
+          "source": "visual-crops/p082_0015_code_texts_1637.webp",
+          "bbox_px": [
+            818,
+            6,
+            1478,
+            194
+          ],
+          "label_bbox_px": [
+            816,
+            198,
+            1480,
+            233
+          ],
+          "border_bbox_px": [
+            816,
+            4,
+            1480,
+            196
+          ],
+          "width_px": 660,
+          "height_px": 188
+        },
+        {
+          "self_ref": "#/texts/902",
+          "label": "formula",
+          "kind": "formula",
+          "page_no": 33,
+          "source": "visual-crops/p033_0011_formula_texts_902.webp",
+          "bbox_px": [
+            818,
+            235,
+            1488,
+            317
+          ],
+          "label_bbox_px": [
+            816,
+            321,
+            1490,
+            356
+          ],
+          "border_bbox_px": [
+            816,
+            233,
+            1490,
+            319
+          ],
+          "width_px": 670,
+          "height_px": 82
+        }
+      ],
+      "packing_algorithm": "rectpack-maxrects-bl"
+    },
+    {
+      "kind": "crop",
+      "sheet": "crop-sheets/crop-sheet-009.webp",
+      "width_px": 1408,
+      "height_px": 1684,
+      "items": [
+        {
+          "self_ref": "#/tables/19",
+          "label": "table",
+          "kind": "table",
+          "page_no": 102,
+          "source": "visual-crops/p102_0077_table_tables_19.webp",
+          "bbox_px": [
+            6,
+            6,
+            932,
+            395
+          ],
+          "label_bbox_px": [
+            4,
+            399,
+            934,
+            434
+          ],
+          "border_bbox_px": [
+            4,
+            4,
+            934,
+            397
+          ],
+          "width_px": 926,
+          "height_px": 389
+        },
+        {
+          "self_ref": "#/pictures/13",
+          "label": "picture",
+          "kind": "picture",
+          "page_no": 35,
+          "source": "visual-crops/p035_0049_picture_pictures_13.webp",
+          "bbox_px": [
+            6,
+            436,
+            948,
+            808
+          ],
+          "label_bbox_px": [
+            4,
+            812,
+            950,
+            847
+          ],
+          "border_bbox_px": [
+            4,
+            434,
+            950,
+            810
+          ],
+          "width_px": 942,
+          "height_px": 372
+        },
+        {
+          "self_ref": "#/pictures/18",
+          "label": "picture",
+          "kind": "picture",
+          "page_no": 57,
+          "source": "visual-crops/p057_0054_picture_pictures_18.webp",
+          "bbox_px": [
+            6,
+            849,
+            711,
+            1358
+          ],
+          "label_bbox_px": [
+            4,
+            1362,
+            713,
+            1397
+          ],
+          "border_bbox_px": [
+            4,
+            847,
+            713,
+            1360
+          ],
+          "width_px": 705,
+          "height_px": 509
+        },
+        {
+          "self_ref": "#/pictures/16",
+          "label": "picture",
+          "kind": "picture",
+          "page_no": 40,
+          "source": "visual-crops/p040_0052_picture_pictures_16.webp",
+          "bbox_px": [
+            715,
+            849,
+            1402,
+            1273
+          ],
+          "label_bbox_px": [
+            713,
+            1277,
+            1404,
+            1312
+          ],
+          "border_bbox_px": [
+            713,
+            847,
+            1404,
+            1275
+          ],
+          "width_px": 687,
+          "height_px": 424
+        },
+        {
+          "self_ref": "#/texts/1804",
+          "label": "code",
+          "kind": "code",
+          "page_no": 89,
+          "source": "visual-crops/p089_0017_code_texts_1804.webp",
+          "bbox_px": [
+            6,
+            1399,
+            918,
+            1641
+          ],
+          "label_bbox_px": [
+            4,
+            1645,
+            920,
+            1680
+          ],
+          "border_bbox_px": [
+            4,
+            1397,
+            920,
+            1643
+          ],
+          "width_px": 912,
+          "height_px": 242
+        }
+      ],
+      "packing_algorithm": "rectpack-maxrects-bl"
+    },
+    {
+      "kind": "crop",
+      "sheet": "crop-sheets/crop-sheet-010.webp",
+      "width_px": 905,
+      "height_px": 1635,
+      "items": [
+        {
+          "self_ref": "#/pictures/5",
+          "label": "picture",
+          "kind": "picture",
+          "page_no": 18,
+          "source": "visual-crops/p018_0041_picture_pictures_5.webp",
+          "bbox_px": [
+            6,
+            6,
+            847,
+            383
+          ],
+          "label_bbox_px": [
+            4,
+            387,
+            849,
+            422
+          ],
+          "border_bbox_px": [
+            4,
+            4,
+            849,
+            385
+          ],
+          "width_px": 841,
+          "height_px": 377
+        },
+        {
+          "self_ref": "#/pictures/7",
+          "label": "picture",
+          "kind": "picture",
+          "page_no": 22,
+          "source": "visual-crops/p022_0043_picture_pictures_7.webp",
+          "bbox_px": [
+            6,
+            424,
+            899,
+            775
+          ],
+          "label_bbox_px": [
+            4,
+            779,
+            901,
+            814
+          ],
+          "border_bbox_px": [
+            4,
+            422,
+            901,
+            777
+          ],
+          "width_px": 893,
+          "height_px": 351
+        },
+        {
+          "self_ref": "#/pictures/10",
+          "label": "picture",
+          "kind": "picture",
+          "page_no": 30,
+          "source": "visual-crops/p030_0046_picture_pictures_10.webp",
+          "bbox_px": [
+            6,
+            816,
+            826,
+            1193
+          ],
+          "label_bbox_px": [
+            4,
+            1197,
+            828,
+            1232
+          ],
+          "border_bbox_px": [
+            4,
+            814,
+            828,
+            1195
+          ],
+          "width_px": 820,
+          "height_px": 377
+        },
+        {
+          "self_ref": "#/pictures/19",
+          "label": "picture",
+          "kind": "picture",
+          "page_no": 58,
+          "source": "visual-crops/p058_0055_picture_pictures_19.webp",
+          "bbox_px": [
+            6,
+            1234,
+            841,
+            1592
+          ],
+          "label_bbox_px": [
+            4,
+            1596,
+            843,
+            1631
+          ],
+          "border_bbox_px": [
+            4,
+            1232,
+            843,
+            1594
+          ],
+          "width_px": 835,
+          "height_px": 358
+        }
+      ],
+      "packing_algorithm": "rectpack-maxrects-bl"
+    },
+    {
+      "kind": "crop",
+      "sheet": "crop-sheets/crop-sheet-011.webp",
+      "width_px": 962,
+      "height_px": 1693,
+      "items": [
+        {
+          "self_ref": "#/tables/10",
+          "label": "table",
+          "kind": "table",
+          "page_no": 48,
+          "source": "visual-crops/p048_0068_table_tables_10.webp",
+          "bbox_px": [
+            6,
+            6,
+            820,
+            374
+          ],
+          "label_bbox_px": [
+            4,
+            378,
+            822,
+            413
+          ],
+          "border_bbox_px": [
+            4,
+            4,
+            822,
+            376
+          ],
+          "width_px": 814,
+          "height_px": 368
+        },
+        {
+          "self_ref": "#/pictures/21",
+          "label": "picture",
+          "kind": "picture",
+          "page_no": 108,
+          "source": "visual-crops/p108_0057_picture_pictures_21.webp",
+          "bbox_px": [
+            6,
+            415,
+            867,
+            752
+          ],
+          "label_bbox_px": [
+            4,
+            756,
+            869,
+            791
+          ],
+          "border_bbox_px": [
+            4,
+            413,
+            869,
+            754
+          ],
+          "width_px": 861,
+          "height_px": 337
+        },
+        {
+          "self_ref": "#/tables/17",
+          "label": "table",
+          "kind": "table",
+          "page_no": 99,
+          "source": "visual-crops/p099_0075_table_tables_17.webp",
+          "bbox_px": [
+            6,
+            793,
+            827,
+            1123
+          ],
+          "label_bbox_px": [
+            4,
+            1127,
+            829,
+            1162
+          ],
+          "border_bbox_px": [
+            4,
+            791,
+            829,
+            1125
+          ],
+          "width_px": 821,
+          "height_px": 330
+        },
+        {
+          "self_ref": "#/pictures/8",
+          "label": "picture",
+          "kind": "picture",
+          "page_no": 23,
+          "source": "visual-crops/p023_0044_picture_pictures_8.webp",
+          "bbox_px": [
+            6,
+            1164,
+            956,
+            1426
+          ],
+          "label_bbox_px": [
+            4,
+            1430,
+            958,
+            1465
+          ],
+          "border_bbox_px": [
+            4,
+            1162,
+            958,
+            1428
+          ],
+          "width_px": 950,
+          "height_px": 262
+        },
+        {
+          "self_ref": "#/texts/1821",
+          "label": "code",
+          "kind": "code",
+          "page_no": 91,
+          "source": "visual-crops/p091_0025_code_texts_1821.webp",
+          "bbox_px": [
+            6,
+            1467,
+            921,
+            1650
+          ],
+          "label_bbox_px": [
+            4,
+            1654,
+            923,
+            1689
+          ],
+          "border_bbox_px": [
+            4,
+            1465,
+            923,
+            1652
+          ],
+          "width_px": 915,
+          "height_px": 183
+        }
+      ],
+      "packing_algorithm": "rectpack-maxrects-bl"
+    },
+    {
+      "kind": "crop",
+      "sheet": "crop-sheets/crop-sheet-012.webp",
+      "width_px": 1424,
+      "height_px": 1644,
+      "items": [
+        {
+          "self_ref": "#/pictures/12",
+          "label": "picture",
+          "kind": "picture",
+          "page_no": 32,
+          "source": "visual-crops/p032_0048_picture_pictures_12.webp",
+          "bbox_px": [
+            6,
+            6,
+            709,
+            369
+          ],
+          "label_bbox_px": [
+            4,
+            373,
+            711,
+            408
+          ],
+          "border_bbox_px": [
+            4,
+            4,
+            711,
+            371
+          ],
+          "width_px": 703,
+          "height_px": 363
+        },
+        {
+          "self_ref": "#/texts/1830",
+          "label": "code",
+          "kind": "code",
+          "page_no": 92,
+          "source": "visual-crops/p092_0028_code_texts_1830.webp",
+          "bbox_px": [
+            6,
+            410,
+            880,
+            692
+          ],
+          "label_bbox_px": [
+            4,
+            696,
+            882,
+            731
+          ],
+          "border_bbox_px": [
+            4,
+            408,
+            882,
+            694
+          ],
+          "width_px": 874,
+          "height_px": 282
+        },
+        {
+          "self_ref": "#/texts/1806",
+          "label": "code",
+          "kind": "code",
+          "page_no": 89,
+          "source": "visual-crops/p089_0018_code_texts_1806.webp",
+          "bbox_px": [
+            6,
+            733,
+            921,
+            995
+          ],
+          "label_bbox_px": [
+            4,
+            999,
+            923,
+            1034
+          ],
+          "border_bbox_px": [
+            4,
+            731,
+            923,
+            997
+          ],
+          "width_px": 915,
+          "height_px": 262
+        },
+        {
+          "self_ref": "#/texts/1814",
+          "label": "code",
+          "kind": "code",
+          "page_no": 90,
+          "source": "visual-crops/p090_0022_code_texts_1814.webp",
+          "bbox_px": [
+            6,
+            1036,
+            921,
+            1298
+          ],
+          "label_bbox_px": [
+            4,
+            1302,
+            923,
+            1337
+          ],
+          "border_bbox_px": [
+            4,
+            1034,
+            923,
+            1300
+          ],
+          "width_px": 915,
+          "height_px": 262
+        },
+        {
+          "self_ref": "#/texts/1835",
+          "label": "code",
+          "kind": "code",
+          "page_no": 93,
+          "source": "visual-crops/p093_0030_code_texts_1835.webp",
+          "bbox_px": [
+            6,
+            1339,
+            921,
+            1601
+          ],
+          "label_bbox_px": [
+            4,
+            1605,
+            923,
+            1640
+          ],
+          "border_bbox_px": [
+            4,
+            1337,
+            923,
+            1603
+          ],
+          "width_px": 915,
+          "height_px": 262
+        },
+        {
+          "self_ref": "#/tables/3",
+          "label": "table",
+          "kind": "table",
+          "page_no": 8,
+          "source": "visual-crops/p008_0061_table_tables_3.webp",
+          "bbox_px": [
+            713,
+            6,
+            1415,
+            240
+          ],
+          "label_bbox_px": [
+            711,
+            244,
+            1417,
+            279
+          ],
+          "border_bbox_px": [
+            711,
+            4,
+            1417,
+            242
+          ],
+          "width_px": 702,
+          "height_px": 234
+        },
+        {
+          "self_ref": "#/texts/886",
+          "label": "formula",
+          "kind": "formula",
+          "page_no": 32,
+          "source": "visual-crops/p032_0007_formula_texts_886.webp",
+          "bbox_px": [
+            713,
+            281,
+            1418,
+            363
+          ],
+          "label_bbox_px": [
+            711,
+            367,
+            1420,
+            402
+          ],
+          "border_bbox_px": [
+            711,
+            279,
+            1420,
+            365
+          ],
+          "width_px": 705,
+          "height_px": 82
+        }
+      ],
+      "packing_algorithm": "rectpack-maxrects-bl"
+    },
+    {
+      "kind": "crop",
+      "sheet": "crop-sheets/crop-sheet-013.webp",
+      "width_px": 943,
+      "height_px": 1693,
+      "items": [
+        {
+          "self_ref": "#/pictures/0",
+          "label": "picture",
+          "kind": "picture",
+          "page_no": 1,
+          "source": "visual-crops/p001_0036_picture_pictures_0.webp",
+          "bbox_px": [
+            6,
+            6,
+            862,
+            282
+          ],
+          "label_bbox_px": [
+            4,
+            286,
+            864,
+            321
+          ],
+          "border_bbox_px": [
+            4,
+            4,
+            864,
+            284
+          ],
+          "width_px": 856,
+          "height_px": 276
+        },
+        {
+          "self_ref": "#/tables/12",
+          "label": "table",
+          "kind": "table",
+          "page_no": 53,
+          "source": "visual-crops/p053_0070_table_tables_12.webp",
+          "bbox_px": [
+            6,
+            323,
+            895,
+            586
+          ],
+          "label_bbox_px": [
+            4,
+            590,
+            897,
+            625
+          ],
+          "border_bbox_px": [
+            4,
+            321,
+            897,
+            588
+          ],
+          "width_px": 889,
+          "height_px": 263
+        },
+        {
+          "self_ref": "#/pictures/14",
+          "label": "picture",
+          "kind": "picture",
+          "page_no": 37,
+          "source": "visual-crops/p037_0050_picture_pictures_14.webp",
+          "bbox_px": [
+            6,
+            627,
+            816,
+            917
+          ],
+          "label_bbox_px": [
+            4,
+            921,
+            818,
+            956
+          ],
+          "border_bbox_px": [
+            4,
+            625,
+            818,
+            919
+          ],
+          "width_px": 810,
+          "height_px": 290
+        },
+        {
+          "self_ref": "#/tables/6",
+          "label": "table",
+          "kind": "table",
+          "page_no": 20,
+          "source": "visual-crops/p020_0064_table_tables_6.webp",
+          "bbox_px": [
+            6,
+            958,
+            862,
+            1206
+          ],
+          "label_bbox_px": [
+            4,
+            1210,
+            864,
+            1245
+          ],
+          "border_bbox_px": [
+            4,
+            956,
+            864,
+            1208
+          ],
+          "width_px": 856,
+          "height_px": 248
+        },
+        {
+          "self_ref": "#/pictures/15",
+          "label": "picture",
+          "kind": "picture",
+          "page_no": 38,
+          "source": "visual-crops/p038_0051_picture_pictures_15.webp",
+          "bbox_px": [
+            6,
+            1247,
+            937,
+            1465
+          ],
+          "label_bbox_px": [
+            4,
+            1469,
+            939,
+            1504
+          ],
+          "border_bbox_px": [
+            4,
+            1245,
+            939,
+            1467
+          ],
+          "width_px": 931,
+          "height_px": 218
+        },
+        {
+          "self_ref": "#/texts/1833",
+          "label": "code",
+          "kind": "code",
+          "page_no": 92,
+          "source": "visual-crops/p092_0029_code_texts_1833.webp",
+          "bbox_px": [
+            6,
+            1506,
+            921,
+            1650
+          ],
+          "label_bbox_px": [
+            4,
+            1654,
+            923,
+            1689
+          ],
+          "border_bbox_px": [
+            4,
+            1504,
+            923,
+            1652
+          ],
+          "width_px": 915,
+          "height_px": 144
+        }
+      ],
+      "packing_algorithm": "rectpack-maxrects-bl"
+    },
+    {
+      "kind": "crop",
+      "sheet": "crop-sheets/crop-sheet-014.webp",
+      "width_px": 967,
+      "height_px": 1665,
+      "items": [
+        {
+          "self_ref": "#/texts/1818",
+          "label": "code",
+          "kind": "code",
+          "page_no": 91,
+          "source": "visual-crops/p091_0024_code_texts_1818.webp",
+          "bbox_px": [
+            6,
+            6,
+            899,
+            228
+          ],
+          "label_bbox_px": [
+            4,
+            232,
+            901,
+            267
+          ],
+          "border_bbox_px": [
+            4,
+            4,
+            901,
+            230
+          ],
+          "width_px": 893,
+          "height_px": 222
+        },
+        {
+          "self_ref": "#/texts/910",
+          "label": "code",
+          "kind": "code",
+          "page_no": 34,
+          "source": "visual-crops/p034_0013_code_texts_910.webp",
+          "bbox_px": [
+            6,
+            269,
+            924,
+            480
+          ],
+          "label_bbox_px": [
+            4,
+            484,
+            926,
+            519
+          ],
+          "border_bbox_px": [
+            4,
+            267,
+            926,
+            482
+          ],
+          "width_px": 918,
+          "height_px": 211
+        },
+        {
+          "self_ref": "#/tables/9",
+          "label": "table",
+          "kind": "table",
+          "page_no": 47,
+          "source": "visual-crops/p047_0067_table_tables_9.webp",
+          "bbox_px": [
+            6,
+            521,
+            836,
+            754
+          ],
+          "label_bbox_px": [
+            4,
+            758,
+            838,
+            793
+          ],
+          "border_bbox_px": [
+            4,
+            519,
+            838,
+            756
+          ],
+          "width_px": 830,
+          "height_px": 233
+        },
+        {
+          "self_ref": "#/tables/18",
+          "label": "table",
+          "kind": "table",
+          "page_no": 99,
+          "source": "visual-crops/p099_0076_table_tables_18.webp",
+          "bbox_px": [
+            6,
+            795,
+            878,
+            1009
+          ],
+          "label_bbox_px": [
+            4,
+            1013,
+            880,
+            1048
+          ],
+          "border_bbox_px": [
+            4,
+            793,
+            880,
+            1011
+          ],
+          "width_px": 872,
+          "height_px": 214
+        },
+        {
+          "self_ref": "#/tables/14",
+          "label": "table",
+          "kind": "table",
+          "page_no": 55,
+          "source": "visual-crops/p055_0072_table_tables_14.webp",
+          "bbox_px": [
+            6,
+            1050,
+            961,
+            1217
+          ],
+          "label_bbox_px": [
+            4,
+            1221,
+            963,
+            1256
+          ],
+          "border_bbox_px": [
+            4,
+            1048,
+            963,
+            1219
+          ],
+          "width_px": 955,
+          "height_px": 167
+        },
+        {
+          "self_ref": "#/pictures/11",
+          "label": "picture",
+          "kind": "picture",
+          "page_no": 31,
+          "source": "visual-crops/p031_0047_picture_pictures_11.webp",
+          "bbox_px": [
+            6,
+            1258,
+            908,
+            1437
+          ],
+          "label_bbox_px": [
+            4,
+            1441,
+            910,
+            1476
+          ],
+          "border_bbox_px": [
+            4,
+            1256,
+            910,
+            1439
+          ],
+          "width_px": 902,
+          "height_px": 179
+        },
+        {
+          "self_ref": "#/texts/1816",
+          "label": "code",
+          "kind": "code",
+          "page_no": 90,
+          "source": "visual-crops/p090_0023_code_texts_1816.webp",
+          "bbox_px": [
+            6,
+            1478,
+            918,
+            1622
+          ],
+          "label_bbox_px": [
+            4,
+            1626,
+            920,
+            1661
+          ],
+          "border_bbox_px": [
+            4,
+            1476,
+            920,
+            1624
+          ],
+          "width_px": 912,
+          "height_px": 144
+        }
+      ],
+      "packing_algorithm": "rectpack-maxrects-bl"
+    },
+    {
+      "kind": "crop",
+      "sheet": "crop-sheets/crop-sheet-015.webp",
+      "width_px": 1392,
+      "height_px": 789,
+      "items": [
+        {
+          "self_ref": "#/tables/8",
+          "label": "table",
+          "kind": "table",
+          "page_no": 29,
+          "source": "visual-crops/p029_0066_table_tables_8.webp",
+          "bbox_px": [
+            6,
+            6,
+            687,
+            242
+          ],
+          "label_bbox_px": [
+            4,
+            246,
+            689,
+            281
+          ],
+          "border_bbox_px": [
+            4,
+            4,
+            689,
+            244
+          ],
+          "width_px": 681,
+          "height_px": 236
+        },
+        {
+          "self_ref": "#/texts/1840",
+          "label": "code",
+          "kind": "code",
+          "page_no": 93,
+          "source": "visual-crops/p093_0032_code_texts_1840.webp",
+          "bbox_px": [
+            6,
+            283,
+            902,
+            407
+          ],
+          "label_bbox_px": [
+            4,
+            411,
+            904,
+            446
+          ],
+          "border_bbox_px": [
+            4,
+            281,
+            904,
+            409
+          ],
+          "width_px": 896,
+          "height_px": 124
+        },
+        {
+          "self_ref": "#/texts/876",
+          "label": "formula",
+          "kind": "formula",
+          "page_no": 31,
+          "source": "visual-crops/p031_0004_formula_texts_876.webp",
+          "bbox_px": [
+            6,
+            448,
+            888,
+            574
+          ],
+          "label_bbox_px": [
+            4,
+            578,
+            890,
+            613
+          ],
+          "border_bbox_px": [
+            4,
+            446,
+            890,
+            576
+          ],
+          "width_px": 882,
+          "height_px": 126
+        },
+        {
+          "self_ref": "#/texts/1801",
+          "label": "code",
+          "kind": "code",
+          "page_no": 89,
+          "source": "visual-crops/p089_0016_code_texts_1801.webp",
+          "bbox_px": [
+            6,
+            615,
+            921,
+            680
+          ],
+          "label_bbox_px": [
+            4,
+            684,
+            923,
+            719
+          ],
+          "border_bbox_px": [
+            4,
+            613,
+            923,
+            682
+          ],
+          "width_px": 915,
+          "height_px": 65
+        },
+        {
+          "self_ref": "#/texts/889",
+          "label": "formula",
+          "kind": "formula",
+          "page_no": 32,
+          "source": "visual-crops/p032_0008_formula_texts_889.webp",
+          "bbox_px": [
+            691,
+            6,
+            1386,
+            88
+          ],
+          "label_bbox_px": [
+            689,
+            92,
+            1388,
+            127
+          ],
+          "border_bbox_px": [
+            689,
+            4,
+            1388,
+            90
+          ],
+          "width_px": 695,
+          "height_px": 82
+        },
+        {
+          "self_ref": "#/texts/1811",
+          "label": "code",
+          "kind": "code",
+          "page_no": 90,
+          "source": "visual-crops/p090_0021_code_texts_1811.webp",
+          "bbox_px": [
+            6,
+            721,
+            880,
+            746
+          ],
+          "label_bbox_px": [
+            4,
+            750,
+            882,
+            785
+          ],
+          "border_bbox_px": [
+            4,
+            719,
+            882,
+            748
+          ],
+          "width_px": 874,
+          "height_px": 25
+        }
+      ],
+      "packing_algorithm": "rectpack-maxrects-bl"
+    }
+  ],
+  "page_sheets": [
+    {
+      "kind": "page",
+      "sheet": "page-sheets/page-sheet-001.webp",
+      "width_px": 1178,
+      "height_px": 2005,
+      "items": [
+        {
+          "self_ref": "#/pages/1",
+          "label": "p001",
+          "kind": "page",
+          "page_no": 1,
+          "source": "docling/source_artifacts/page_000001_13281619c4f9aced4af5c48bb99285adfb94cacfa5f33bde15b70f1cd056c151.webp",
+          "bbox_px": [
+            12,
+            12,
+            290,
+            372
+          ],
+          "label_bbox_px": [
+            10,
+            376,
+            292,
+            399
+          ],
+          "border_bbox_px": [
+            10,
+            10,
+            292,
+            374
+          ],
+          "width_px": 278,
+          "height_px": 360
+        },
+        {
+          "self_ref": "#/pages/2",
+          "label": "p002",
+          "kind": "page",
+          "page_no": 2,
+          "source": "docling/source_artifacts/page_000002_1f4411d0509ed04bea5b6885ff73240579255e1986a5daa396272447a2aef5eb.webp",
+          "bbox_px": [
+            304,
+            12,
+            582,
+            372
+          ],
+          "label_bbox_px": [
+            302,
+            376,
+            584,
+            399
+          ],
+          "border_bbox_px": [
+            302,
+            10,
+            584,
+            374
+          ],
+          "width_px": 278,
+          "height_px": 360
+        },
+        {
+          "self_ref": "#/pages/3",
+          "label": "p003",
+          "kind": "page",
+          "page_no": 3,
+          "source": "docling/source_artifacts/page_000003_482d924715ada7e0c33e7880d9b47eb2bc9a1e4f1ee1d1036e56fe1865125274.webp",
+          "bbox_px": [
+            596,
+            12,
+            874,
+            372
+          ],
+          "label_bbox_px": [
+            594,
+            376,
+            876,
+            399
+          ],
+          "border_bbox_px": [
+            594,
+            10,
+            876,
+            374
+          ],
+          "width_px": 278,
+          "height_px": 360
+        },
+        {
+          "self_ref": "#/pages/4",
+          "label": "p004",
+          "kind": "page",
+          "page_no": 4,
+          "source": "docling/source_artifacts/page_000004_0c90ef83c445296137a6340c6b7c8cb871fe9b02beed1f82364295ea36892e1e.webp",
+          "bbox_px": [
+            888,
+            12,
+            1166,
+            372
+          ],
+          "label_bbox_px": [
+            886,
+            376,
+            1168,
+            399
+          ],
+          "border_bbox_px": [
+            886,
+            10,
+            1168,
+            374
+          ],
+          "width_px": 278,
+          "height_px": 360
+        },
+        {
+          "self_ref": "#/pages/5",
+          "label": "p005",
+          "kind": "page",
+          "page_no": 5,
+          "source": "docling/source_artifacts/page_000005_995e1830fc35b00179b4466bf109d792e14cdd88609e376d50c795fdc7ce6c98.webp",
+          "bbox_px": [
+            12,
+            411,
+            290,
+            771
+          ],
+          "label_bbox_px": [
+            10,
+            775,
+            292,
+            798
+          ],
+          "border_bbox_px": [
+            10,
+            409,
+            292,
+            773
+          ],
+          "width_px": 278,
+          "height_px": 360
+        },
+        {
+          "self_ref": "#/pages/6",
+          "label": "p006",
+          "kind": "page",
+          "page_no": 6,
+          "source": "docling/source_artifacts/page_000006_9b92939f1f6349414a5f0d16e4c3e7de7cae18931a86a14e6eaf0ff66d0c3596.webp",
+          "bbox_px": [
+            304,
+            411,
+            582,
+            771
+          ],
+          "label_bbox_px": [
+            302,
+            775,
+            584,
+            798
+          ],
+          "border_bbox_px": [
+            302,
+            409,
+            584,
+            773
+          ],
+          "width_px": 278,
+          "height_px": 360
+        },
+        {
+          "self_ref": "#/pages/7",
+          "label": "p007",
+          "kind": "page",
+          "page_no": 7,
+          "source": "docling/source_artifacts/page_000007_b40211d8ad8c35e37e6e64b5896521d5eac10fa35521d1c3eca85a06bd5032d2.webp",
+          "bbox_px": [
+            596,
+            411,
+            874,
+            771
+          ],
+          "label_bbox_px": [
+            594,
+            775,
+            876,
+            798
+          ],
+          "border_bbox_px": [
+            594,
+            409,
+            876,
+            773
+          ],
+          "width_px": 278,
+          "height_px": 360
+        },
+        {
+          "self_ref": "#/pages/8",
+          "label": "p008",
+          "kind": "page",
+          "page_no": 8,
+          "source": "docling/source_artifacts/page_000008_25897a47a3347a322234ac7cae300c0542e53ed474795d972c8733a0f54ec350.webp",
+          "bbox_px": [
+            888,
+            411,
+            1166,
+            771
+          ],
+          "label_bbox_px": [
+            886,
+            775,
+            1168,
+            798
+          ],
+          "border_bbox_px": [
+            886,
+            409,
+            1168,
+            773
+          ],
+          "width_px": 278,
+          "height_px": 360
+        },
+        {
+          "self_ref": "#/pages/9",
+          "label": "p009",
+          "kind": "page",
+          "page_no": 9,
+          "source": "docling/source_artifacts/page_000009_607b066adcf620547daaa61382a7f668c86357bc6c21e13fc42760793225d51d.webp",
+          "bbox_px": [
+            12,
+            810,
+            290,
+            1170
+          ],
+          "label_bbox_px": [
+            10,
+            1174,
+            292,
+            1197
+          ],
+          "border_bbox_px": [
+            10,
+            808,
+            292,
+            1172
+          ],
+          "width_px": 278,
+          "height_px": 360
+        },
+        {
+          "self_ref": "#/pages/10",
+          "label": "p010",
+          "kind": "page",
+          "page_no": 10,
+          "source": "docling/source_artifacts/page_000010_e092fac8eea4a96144227994e755b2530d7cab2be14cf3278a3f78dd47d27735.webp",
+          "bbox_px": [
+            304,
+            810,
+            582,
+            1170
+          ],
+          "label_bbox_px": [
+            302,
+            1174,
+            584,
+            1197
+          ],
+          "border_bbox_px": [
+            302,
+            808,
+            584,
+            1172
+          ],
+          "width_px": 278,
+          "height_px": 360
+        },
+        {
+          "self_ref": "#/pages/11",
+          "label": "p011",
+          "kind": "page",
+          "page_no": 11,
+          "source": "docling/source_artifacts/page_000011_34594cd83e9199e52ec6de530dfe5b48c00718ee10f202186a825b63edc292fd.webp",
+          "bbox_px": [
+            596,
+            810,
+            874,
+            1170
+          ],
+          "label_bbox_px": [
+            594,
+            1174,
+            876,
+            1197
+          ],
+          "border_bbox_px": [
+            594,
+            808,
+            876,
+            1172
+          ],
+          "width_px": 278,
+          "height_px": 360
+        },
+        {
+          "self_ref": "#/pages/12",
+          "label": "p012",
+          "kind": "page",
+          "page_no": 12,
+          "source": "docling/source_artifacts/page_000012_1706e0cf3cee5326dacd63096ba05c061e125282b2da6aafb22ba0042c8bb3e2.webp",
+          "bbox_px": [
+            888,
+            810,
+            1166,
+            1170
+          ],
+          "label_bbox_px": [
+            886,
+            1174,
+            1168,
+            1197
+          ],
+          "border_bbox_px": [
+            886,
+            808,
+            1168,
+            1172
+          ],
+          "width_px": 278,
+          "height_px": 360
+        },
+        {
+          "self_ref": "#/pages/13",
+          "label": "p013",
+          "kind": "page",
+          "page_no": 13,
+          "source": "docling/source_artifacts/page_000013_b35b640482175bcbcc97db005cc8488ab781b8c628eeb3641c82aff3e7ba6656.webp",
+          "bbox_px": [
+            12,
+            1209,
+            290,
+            1569
+          ],
+          "label_bbox_px": [
+            10,
+            1573,
+            292,
+            1596
+          ],
+          "border_bbox_px": [
+            10,
+            1207,
+            292,
+            1571
+          ],
+          "width_px": 278,
+          "height_px": 360
+        },
+        {
+          "self_ref": "#/pages/14",
+          "label": "p014",
+          "kind": "page",
+          "page_no": 14,
+          "source": "docling/source_artifacts/page_000014_583cd6ad7e2c24aac26026928495cdfe03c6b2cf97d0331e1b761468e4ec2bf3.webp",
+          "bbox_px": [
+            304,
+            1209,
+            582,
+            1569
+          ],
+          "label_bbox_px": [
+            302,
+            1573,
+            584,
+            1596
+          ],
+          "border_bbox_px": [
+            302,
+            1207,
+            584,
+            1571
+          ],
+          "width_px": 278,
+          "height_px": 360
+        },
+        {
+          "self_ref": "#/pages/15",
+          "label": "p015",
+          "kind": "page",
+          "page_no": 15,
+          "source": "docling/source_artifacts/page_000015_9d89c3b217f4eda83cd99bd69e6b1bb34c1ed16abb9430bbb25d323d3bae26de.webp",
+          "bbox_px": [
+            596,
+            1209,
+            874,
+            1569
+          ],
+          "label_bbox_px": [
+            594,
+            1573,
+            876,
+            1596
+          ],
+          "border_bbox_px": [
+            594,
+            1207,
+            876,
+            1571
+          ],
+          "width_px": 278,
+          "height_px": 360
+        },
+        {
+          "self_ref": "#/pages/16",
+          "label": "p016",
+          "kind": "page",
+          "page_no": 16,
+          "source": "docling/source_artifacts/page_000016_7b5cabcc53493b6a2ff4d67005b281f2de4ba53a4d76b6bf70d4aa50edda7d27.webp",
+          "bbox_px": [
+            888,
+            1209,
+            1166,
+            1569
+          ],
+          "label_bbox_px": [
+            886,
+            1573,
+            1168,
+            1596
+          ],
+          "border_bbox_px": [
+            886,
+            1207,
+            1168,
+            1571
+          ],
+          "width_px": 278,
+          "height_px": 360
+        },
+        {
+          "self_ref": "#/pages/17",
+          "label": "p017",
+          "kind": "page",
+          "page_no": 17,
+          "source": "docling/source_artifacts/page_000017_4b6932a30d60d1443522e8543d69c0507da8554d8ed1b604a337850bdfa14ecc.webp",
+          "bbox_px": [
+            12,
+            1608,
+            290,
+            1968
+          ],
+          "label_bbox_px": [
+            10,
+            1972,
+            292,
+            1995
+          ],
+          "border_bbox_px": [
+            10,
+            1606,
+            292,
+            1970
+          ],
+          "width_px": 278,
+          "height_px": 360
+        },
+        {
+          "self_ref": "#/pages/18",
+          "label": "p018",
+          "kind": "page",
+          "page_no": 18,
+          "source": "docling/source_artifacts/page_000018_bebad1a982256ca1df9f1fd9db78c1209ac930341e6c45ca42f8a49cad61e827.webp",
+          "bbox_px": [
+            304,
+            1608,
+            582,
+            1968
+          ],
+          "label_bbox_px": [
+            302,
+            1972,
+            584,
+            1995
+          ],
+          "border_bbox_px": [
+            302,
+            1606,
+            584,
+            1970
+          ],
+          "width_px": 278,
+          "height_px": 360
+        },
+        {
+          "self_ref": "#/pages/19",
+          "label": "p019",
+          "kind": "page",
+          "page_no": 19,
+          "source": "docling/source_artifacts/page_000019_4a99a6e6d84612345a121b5f4a5331a5bfa371809e445aca19dd28173daaafe5.webp",
+          "bbox_px": [
+            596,
+            1608,
+            874,
+            1968
+          ],
+          "label_bbox_px": [
+            594,
+            1972,
+            876,
+            1995
+          ],
+          "border_bbox_px": [
+            594,
+            1606,
+            876,
+            1970
+          ],
+          "width_px": 278,
+          "height_px": 360
+        },
+        {
+          "self_ref": "#/pages/20",
+          "label": "p020",
+          "kind": "page",
+          "page_no": 20,
+          "source": "docling/source_artifacts/page_000020_3a97d6df6f99fdfca5ebacfcbc44075138063966b1a4301054fd208f8756a4d7.webp",
+          "bbox_px": [
+            888,
+            1608,
+            1166,
+            1968
+          ],
+          "label_bbox_px": [
+            886,
+            1972,
+            1168,
+            1995
+          ],
+          "border_bbox_px": [
+            886,
+            1606,
+            1168,
+            1970
+          ],
+          "width_px": 278,
+          "height_px": 360
+        }
+      ]
+    },
+    {
+      "kind": "page",
+      "sheet": "page-sheets/page-sheet-002.webp",
+      "width_px": 1178,
+      "height_px": 2005,
+      "items": [
+        {
+          "self_ref": "#/pages/21",
+          "label": "p021",
+          "kind": "page",
+          "page_no": 21,
+          "source": "docling/source_artifacts/page_000021_47146649bae5be10e5cfc07b92f5008be65e7de4062d54d33ea5232925280d48.webp",
+          "bbox_px": [
+            12,
+            12,
+            290,
+            372
+          ],
+          "label_bbox_px": [
+            10,
+            376,
+            292,
+            399
+          ],
+          "border_bbox_px": [
+            10,
+            10,
+            292,
+            374
+          ],
+          "width_px": 278,
+          "height_px": 360
+        },
+        {
+          "self_ref": "#/pages/22",
+          "label": "p022",
+          "kind": "page",
+          "page_no": 22,
+          "source": "docling/source_artifacts/page_000022_6888020eb10d8334bdb10879a8e0285ce2e07b5885053f337133c1ec29bf7389.webp",
+          "bbox_px": [
+            304,
+            12,
+            582,
+            372
+          ],
+          "label_bbox_px": [
+            302,
+            376,
+            584,
+            399
+          ],
+          "border_bbox_px": [
+            302,
+            10,
+            584,
+            374
+          ],
+          "width_px": 278,
+          "height_px": 360
+        },
+        {
+          "self_ref": "#/pages/23",
+          "label": "p023",
+          "kind": "page",
+          "page_no": 23,
+          "source": "docling/source_artifacts/page_000023_53b11218542ed45495deda20c7392637157625a901ed704978b0625d66521e7f.webp",
+          "bbox_px": [
+            596,
+            12,
+            874,
+            372
+          ],
+          "label_bbox_px": [
+            594,
+            376,
+            876,
+            399
+          ],
+          "border_bbox_px": [
+            594,
+            10,
+            876,
+            374
+          ],
+          "width_px": 278,
+          "height_px": 360
+        },
+        {
+          "self_ref": "#/pages/24",
+          "label": "p024",
+          "kind": "page",
+          "page_no": 24,
+          "source": "docling/source_artifacts/page_000024_f8b84a03ce854bed08e5f4f591926637cfe14edc36ac279bf752d126e7ccb807.webp",
+          "bbox_px": [
+            888,
+            12,
+            1166,
+            372
+          ],
+          "label_bbox_px": [
+            886,
+            376,
+            1168,
+            399
+          ],
+          "border_bbox_px": [
+            886,
+            10,
+            1168,
+            374
+          ],
+          "width_px": 278,
+          "height_px": 360
+        },
+        {
+          "self_ref": "#/pages/25",
+          "label": "p025",
+          "kind": "page",
+          "page_no": 25,
+          "source": "docling/source_artifacts/page_000025_e90c1d4e245c03685373f2c24bf31fbaa4065302770f67f80663b011b81b3355.webp",
+          "bbox_px": [
+            12,
+            411,
+            290,
+            771
+          ],
+          "label_bbox_px": [
+            10,
+            775,
+            292,
+            798
+          ],
+          "border_bbox_px": [
+            10,
+            409,
+            292,
+            773
+          ],
+          "width_px": 278,
+          "height_px": 360
+        },
+        {
+          "self_ref": "#/pages/26",
+          "label": "p026",
+          "kind": "page",
+          "page_no": 26,
+          "source": "docling/source_artifacts/page_000026_0234152aba7376b139d493f326770576d285b349c9c9f1c4a5138f660afe5c6d.webp",
+          "bbox_px": [
+            304,
+            411,
+            582,
+            771
+          ],
+          "label_bbox_px": [
+            302,
+            775,
+            584,
+            798
+          ],
+          "border_bbox_px": [
+            302,
+            409,
+            584,
+            773
+          ],
+          "width_px": 278,
+          "height_px": 360
+        },
+        {
+          "self_ref": "#/pages/27",
+          "label": "p027",
+          "kind": "page",
+          "page_no": 27,
+          "source": "docling/source_artifacts/page_000027_bdc7a998d2a3a9e359ca31a0a7dee6eb000b3cfc7207f2759d767b69e2732b12.webp",
+          "bbox_px": [
+            596,
+            411,
+            874,
+            771
+          ],
+          "label_bbox_px": [
+            594,
+            775,
+            876,
+            798
+          ],
+          "border_bbox_px": [
+            594,
+            409,
+            876,
+            773
+          ],
+          "width_px": 278,
+          "height_px": 360
+        },
+        {
+          "self_ref": "#/pages/28",
+          "label": "p028",
+          "kind": "page",
+          "page_no": 28,
+          "source": "docling/source_artifacts/page_000028_6e64eae6d767cee4476b77cf2a53eca7332771a3466b474a211e3b329e255dfb.webp",
+          "bbox_px": [
+            888,
+            411,
+            1166,
+            771
+          ],
+          "label_bbox_px": [
+            886,
+            775,
+            1168,
+            798
+          ],
+          "border_bbox_px": [
+            886,
+            409,
+            1168,
+            773
+          ],
+          "width_px": 278,
+          "height_px": 360
+        },
+        {
+          "self_ref": "#/pages/29",
+          "label": "p029",
+          "kind": "page",
+          "page_no": 29,
+          "source": "docling/source_artifacts/page_000029_3e2f1a105f0958287d509df88874c765df355df4bfddc2314f510bb8a6eeac96.webp",
+          "bbox_px": [
+            12,
+            810,
+            290,
+            1170
+          ],
+          "label_bbox_px": [
+            10,
+            1174,
+            292,
+            1197
+          ],
+          "border_bbox_px": [
+            10,
+            808,
+            292,
+            1172
+          ],
+          "width_px": 278,
+          "height_px": 360
+        },
+        {
+          "self_ref": "#/pages/30",
+          "label": "p030",
+          "kind": "page",
+          "page_no": 30,
+          "source": "docling/source_artifacts/page_000030_d05617be9b329fc30aa017722b7a6064f36a01291d9be4f664800d1873264f45.webp",
+          "bbox_px": [
+            304,
+            810,
+            582,
+            1170
+          ],
+          "label_bbox_px": [
+            302,
+            1174,
+            584,
+            1197
+          ],
+          "border_bbox_px": [
+            302,
+            808,
+            584,
+            1172
+          ],
+          "width_px": 278,
+          "height_px": 360
+        },
+        {
+          "self_ref": "#/pages/31",
+          "label": "p031",
+          "kind": "page",
+          "page_no": 31,
+          "source": "docling/source_artifacts/page_000031_5892f696bd3f094d6954291b4ab2f2339886b1bf842d783e54a8f27bff4b8efa.webp",
+          "bbox_px": [
+            596,
+            810,
+            874,
+            1170
+          ],
+          "label_bbox_px": [
+            594,
+            1174,
+            876,
+            1197
+          ],
+          "border_bbox_px": [
+            594,
+            808,
+            876,
+            1172
+          ],
+          "width_px": 278,
+          "height_px": 360
+        },
+        {
+          "self_ref": "#/pages/32",
+          "label": "p032",
+          "kind": "page",
+          "page_no": 32,
+          "source": "docling/source_artifacts/page_000032_4be58effc1e8218633288bdf33685c6265c356decf46a6b71e453d848043c1f6.webp",
+          "bbox_px": [
+            888,
+            810,
+            1166,
+            1170
+          ],
+          "label_bbox_px": [
+            886,
+            1174,
+            1168,
+            1197
+          ],
+          "border_bbox_px": [
+            886,
+            808,
+            1168,
+            1172
+          ],
+          "width_px": 278,
+          "height_px": 360
+        },
+        {
+          "self_ref": "#/pages/33",
+          "label": "p033",
+          "kind": "page",
+          "page_no": 33,
+          "source": "docling/source_artifacts/page_000033_847cad8b3ace13627340d40bd79a17614d70fd35857fa4db93658a5625873e8d.webp",
+          "bbox_px": [
+            12,
+            1209,
+            290,
+            1569
+          ],
+          "label_bbox_px": [
+            10,
+            1573,
+            292,
+            1596
+          ],
+          "border_bbox_px": [
+            10,
+            1207,
+            292,
+            1571
+          ],
+          "width_px": 278,
+          "height_px": 360
+        },
+        {
+          "self_ref": "#/pages/34",
+          "label": "p034",
+          "kind": "page",
+          "page_no": 34,
+          "source": "docling/source_artifacts/page_000034_18da0cb48ae10c49df79a4742597e046ea89b22ab4b0dbd97013d7bd776731f3.webp",
+          "bbox_px": [
+            304,
+            1209,
+            582,
+            1569
+          ],
+          "label_bbox_px": [
+            302,
+            1573,
+            584,
+            1596
+          ],
+          "border_bbox_px": [
+            302,
+            1207,
+            584,
+            1571
+          ],
+          "width_px": 278,
+          "height_px": 360
+        },
+        {
+          "self_ref": "#/pages/35",
+          "label": "p035",
+          "kind": "page",
+          "page_no": 35,
+          "source": "docling/source_artifacts/page_000035_898863c2d094de2fd9f9a6f8512d43137cb1ebe50fec3f6f6b299134746d5aea.webp",
+          "bbox_px": [
+            596,
+            1209,
+            874,
+            1569
+          ],
+          "label_bbox_px": [
+            594,
+            1573,
+            876,
+            1596
+          ],
+          "border_bbox_px": [
+            594,
+            1207,
+            876,
+            1571
+          ],
+          "width_px": 278,
+          "height_px": 360
+        },
+        {
+          "self_ref": "#/pages/36",
+          "label": "p036",
+          "kind": "page",
+          "page_no": 36,
+          "source": "docling/source_artifacts/page_000036_ce08b61e55d0a9e3a0200da0a9cea9fe9516ea95d92fd62bb3811874db6bdd76.webp",
+          "bbox_px": [
+            888,
+            1209,
+            1166,
+            1569
+          ],
+          "label_bbox_px": [
+            886,
+            1573,
+            1168,
+            1596
+          ],
+          "border_bbox_px": [
+            886,
+            1207,
+            1168,
+            1571
+          ],
+          "width_px": 278,
+          "height_px": 360
+        },
+        {
+          "self_ref": "#/pages/37",
+          "label": "p037",
+          "kind": "page",
+          "page_no": 37,
+          "source": "docling/source_artifacts/page_000037_1da848a7ab3b081795591ccd980d3676ea7b7085f9b245faecc260580e8a8f16.webp",
+          "bbox_px": [
+            12,
+            1608,
+            290,
+            1968
+          ],
+          "label_bbox_px": [
+            10,
+            1972,
+            292,
+            1995
+          ],
+          "border_bbox_px": [
+            10,
+            1606,
+            292,
+            1970
+          ],
+          "width_px": 278,
+          "height_px": 360
+        },
+        {
+          "self_ref": "#/pages/38",
+          "label": "p038",
+          "kind": "page",
+          "page_no": 38,
+          "source": "docling/source_artifacts/page_000038_5aac1cc0c38aac8b1806288f73feefc653fb61719da93aeca1ae3becd4cd9682.webp",
+          "bbox_px": [
+            304,
+            1608,
+            582,
+            1968
+          ],
+          "label_bbox_px": [
+            302,
+            1972,
+            584,
+            1995
+          ],
+          "border_bbox_px": [
+            302,
+            1606,
+            584,
+            1970
+          ],
+          "width_px": 278,
+          "height_px": 360
+        },
+        {
+          "self_ref": "#/pages/39",
+          "label": "p039",
+          "kind": "page",
+          "page_no": 39,
+          "source": "docling/source_artifacts/page_000039_6dcb706cd32a697c14316fd9246f39cb67451abc1574b4f9b809b03ccc0917e3.webp",
+          "bbox_px": [
+            596,
+            1608,
+            874,
+            1968
+          ],
+          "label_bbox_px": [
+            594,
+            1972,
+            876,
+            1995
+          ],
+          "border_bbox_px": [
+            594,
+            1606,
+            876,
+            1970
+          ],
+          "width_px": 278,
+          "height_px": 360
+        },
+        {
+          "self_ref": "#/pages/40",
+          "label": "p040",
+          "kind": "page",
+          "page_no": 40,
+          "source": "docling/source_artifacts/page_000040_2092fe3c1ca45404b3b64fb4b13f476e2898f871d6ebe87521beab73541ed846.webp",
+          "bbox_px": [
+            888,
+            1608,
+            1166,
+            1968
+          ],
+          "label_bbox_px": [
+            886,
+            1972,
+            1168,
+            1995
+          ],
+          "border_bbox_px": [
+            886,
+            1606,
+            1168,
+            1970
+          ],
+          "width_px": 278,
+          "height_px": 360
+        }
+      ]
+    },
+    {
+      "kind": "page",
+      "sheet": "page-sheets/page-sheet-003.webp",
+      "width_px": 1178,
+      "height_px": 2005,
+      "items": [
+        {
+          "self_ref": "#/pages/41",
+          "label": "p041",
+          "kind": "page",
+          "page_no": 41,
+          "source": "docling/source_artifacts/page_000041_1c6514be64024ec7ea367dba1aa7a005eba505ccddbd06cd0ed1251b1fd2d0bb.webp",
+          "bbox_px": [
+            12,
+            12,
+            290,
+            372
+          ],
+          "label_bbox_px": [
+            10,
+            376,
+            292,
+            399
+          ],
+          "border_bbox_px": [
+            10,
+            10,
+            292,
+            374
+          ],
+          "width_px": 278,
+          "height_px": 360
+        },
+        {
+          "self_ref": "#/pages/42",
+          "label": "p042",
+          "kind": "page",
+          "page_no": 42,
+          "source": "docling/source_artifacts/page_000042_7e6e765a2a44336f7ace7925851cda62b2d249badb365853bdd068d56c065f4a.webp",
+          "bbox_px": [
+            304,
+            12,
+            582,
+            372
+          ],
+          "label_bbox_px": [
+            302,
+            376,
+            584,
+            399
+          ],
+          "border_bbox_px": [
+            302,
+            10,
+            584,
+            374
+          ],
+          "width_px": 278,
+          "height_px": 360
+        },
+        {
+          "self_ref": "#/pages/43",
+          "label": "p043",
+          "kind": "page",
+          "page_no": 43,
+          "source": "docling/source_artifacts/page_000043_1e6420cf51540c8a78557715a2ce051c16294bfbc8cda3306431b6d670bb4bba.webp",
+          "bbox_px": [
+            596,
+            12,
+            874,
+            372
+          ],
+          "label_bbox_px": [
+            594,
+            376,
+            876,
+            399
+          ],
+          "border_bbox_px": [
+            594,
+            10,
+            876,
+            374
+          ],
+          "width_px": 278,
+          "height_px": 360
+        },
+        {
+          "self_ref": "#/pages/44",
+          "label": "p044",
+          "kind": "page",
+          "page_no": 44,
+          "source": "docling/source_artifacts/page_000044_f15cbe748a12f37e1e4e6c6e88b56e41897afd9c3d9a3f83bd757c908c02696f.webp",
+          "bbox_px": [
+            888,
+            12,
+            1166,
+            372
+          ],
+          "label_bbox_px": [
+            886,
+            376,
+            1168,
+            399
+          ],
+          "border_bbox_px": [
+            886,
+            10,
+            1168,
+            374
+          ],
+          "width_px": 278,
+          "height_px": 360
+        },
+        {
+          "self_ref": "#/pages/45",
+          "label": "p045",
+          "kind": "page",
+          "page_no": 45,
+          "source": "docling/source_artifacts/page_000045_7076075e3c80d3e43096c8be86a445bf834f54b8d8ef92734aa7689f4f16d955.webp",
+          "bbox_px": [
+            12,
+            411,
+            290,
+            771
+          ],
+          "label_bbox_px": [
+            10,
+            775,
+            292,
+            798
+          ],
+          "border_bbox_px": [
+            10,
+            409,
+            292,
+            773
+          ],
+          "width_px": 278,
+          "height_px": 360
+        },
+        {
+          "self_ref": "#/pages/46",
+          "label": "p046",
+          "kind": "page",
+          "page_no": 46,
+          "source": "docling/source_artifacts/page_000046_b8839a854cbd234337cbec44e8670b377475b8257660300355ff3c82dfdea8b5.webp",
+          "bbox_px": [
+            304,
+            411,
+            582,
+            771
+          ],
+          "label_bbox_px": [
+            302,
+            775,
+            584,
+            798
+          ],
+          "border_bbox_px": [
+            302,
+            409,
+            584,
+            773
+          ],
+          "width_px": 278,
+          "height_px": 360
+        },
+        {
+          "self_ref": "#/pages/47",
+          "label": "p047",
+          "kind": "page",
+          "page_no": 47,
+          "source": "docling/source_artifacts/page_000047_5245815efd3dc70f85736eacf54f79b17e0053863accef0e01c3b3c234f2e86f.webp",
+          "bbox_px": [
+            596,
+            411,
+            874,
+            771
+          ],
+          "label_bbox_px": [
+            594,
+            775,
+            876,
+            798
+          ],
+          "border_bbox_px": [
+            594,
+            409,
+            876,
+            773
+          ],
+          "width_px": 278,
+          "height_px": 360
+        },
+        {
+          "self_ref": "#/pages/48",
+          "label": "p048",
+          "kind": "page",
+          "page_no": 48,
+          "source": "docling/source_artifacts/page_000048_7b88d7eab56ac186d150951b2de87a9b95bfc4dc32659236403fe0b5888257d8.webp",
+          "bbox_px": [
+            888,
+            411,
+            1166,
+            771
+          ],
+          "label_bbox_px": [
+            886,
+            775,
+            1168,
+            798
+          ],
+          "border_bbox_px": [
+            886,
+            409,
+            1168,
+            773
+          ],
+          "width_px": 278,
+          "height_px": 360
+        },
+        {
+          "self_ref": "#/pages/49",
+          "label": "p049",
+          "kind": "page",
+          "page_no": 49,
+          "source": "docling/source_artifacts/page_000049_f4f539347c42138a5e53682baf7fa9bdd5dc4b9aa2ea6810dda8e0d7ec67598b.webp",
+          "bbox_px": [
+            12,
+            810,
+            290,
+            1170
+          ],
+          "label_bbox_px": [
+            10,
+            1174,
+            292,
+            1197
+          ],
+          "border_bbox_px": [
+            10,
+            808,
+            292,
+            1172
+          ],
+          "width_px": 278,
+          "height_px": 360
+        },
+        {
+          "self_ref": "#/pages/50",
+          "label": "p050",
+          "kind": "page",
+          "page_no": 50,
+          "source": "docling/source_artifacts/page_000050_da1a5600134319bee64d25deb9a229cbee5bae4367aad607d7ef1107f569deb7.webp",
+          "bbox_px": [
+            304,
+            810,
+            582,
+            1170
+          ],
+          "label_bbox_px": [
+            302,
+            1174,
+            584,
+            1197
+          ],
+          "border_bbox_px": [
+            302,
+            808,
+            584,
+            1172
+          ],
+          "width_px": 278,
+          "height_px": 360
+        },
+        {
+          "self_ref": "#/pages/51",
+          "label": "p051",
+          "kind": "page",
+          "page_no": 51,
+          "source": "docling/source_artifacts/page_000051_0b54e98b7d0caddc0f3f8b675d3caa064f70ee95f690c8470b2030b4e73e790d.webp",
+          "bbox_px": [
+            596,
+            810,
+            874,
+            1170
+          ],
+          "label_bbox_px": [
+            594,
+            1174,
+            876,
+            1197
+          ],
+          "border_bbox_px": [
+            594,
+            808,
+            876,
+            1172
+          ],
+          "width_px": 278,
+          "height_px": 360
+        },
+        {
+          "self_ref": "#/pages/52",
+          "label": "p052",
+          "kind": "page",
+          "page_no": 52,
+          "source": "docling/source_artifacts/page_000052_e6084a80816c5cddfa2af00bc7fcaac260b16c774668646e0efd7bcdf1a4df06.webp",
+          "bbox_px": [
+            888,
+            810,
+            1166,
+            1170
+          ],
+          "label_bbox_px": [
+            886,
+            1174,
+            1168,
+            1197
+          ],
+          "border_bbox_px": [
+            886,
+            808,
+            1168,
+            1172
+          ],
+          "width_px": 278,
+          "height_px": 360
+        },
+        {
+          "self_ref": "#/pages/53",
+          "label": "p053",
+          "kind": "page",
+          "page_no": 53,
+          "source": "docling/source_artifacts/page_000053_cc7595fb1a76896ea8b180875edd9a49fb72a8813181b0566d3e25e96fa82fba.webp",
+          "bbox_px": [
+            12,
+            1209,
+            290,
+            1569
+          ],
+          "label_bbox_px": [
+            10,
+            1573,
+            292,
+            1596
+          ],
+          "border_bbox_px": [
+            10,
+            1207,
+            292,
+            1571
+          ],
+          "width_px": 278,
+          "height_px": 360
+        },
+        {
+          "self_ref": "#/pages/54",
+          "label": "p054",
+          "kind": "page",
+          "page_no": 54,
+          "source": "docling/source_artifacts/page_000054_f571cfb46e8a4d53c6028dda0630fc88d02a84add20d4e8ff5be35b8844e0b61.webp",
+          "bbox_px": [
+            304,
+            1209,
+            582,
+            1569
+          ],
+          "label_bbox_px": [
+            302,
+            1573,
+            584,
+            1596
+          ],
+          "border_bbox_px": [
+            302,
+            1207,
+            584,
+            1571
+          ],
+          "width_px": 278,
+          "height_px": 360
+        },
+        {
+          "self_ref": "#/pages/55",
+          "label": "p055",
+          "kind": "page",
+          "page_no": 55,
+          "source": "docling/source_artifacts/page_000055_9936beebaa3ed4bc666c814dcaffc5a68c7270cca647c96395d456751b6aa83d.webp",
+          "bbox_px": [
+            596,
+            1209,
+            874,
+            1569
+          ],
+          "label_bbox_px": [
+            594,
+            1573,
+            876,
+            1596
+          ],
+          "border_bbox_px": [
+            594,
+            1207,
+            876,
+            1571
+          ],
+          "width_px": 278,
+          "height_px": 360
+        },
+        {
+          "self_ref": "#/pages/56",
+          "label": "p056",
+          "kind": "page",
+          "page_no": 56,
+          "source": "docling/source_artifacts/page_000056_406d3fb39aafda6afe7f176ac06f3e81210eeeba633ad9ea08bf0f23e80d855b.webp",
+          "bbox_px": [
+            888,
+            1209,
+            1166,
+            1569
+          ],
+          "label_bbox_px": [
+            886,
+            1573,
+            1168,
+            1596
+          ],
+          "border_bbox_px": [
+            886,
+            1207,
+            1168,
+            1571
+          ],
+          "width_px": 278,
+          "height_px": 360
+        },
+        {
+          "self_ref": "#/pages/57",
+          "label": "p057",
+          "kind": "page",
+          "page_no": 57,
+          "source": "docling/source_artifacts/page_000057_caa398456a0ccad2d2484adceda335b011228996a08ad6437eabd5e8e4355101.webp",
+          "bbox_px": [
+            12,
+            1608,
+            290,
+            1968
+          ],
+          "label_bbox_px": [
+            10,
+            1972,
+            292,
+            1995
+          ],
+          "border_bbox_px": [
+            10,
+            1606,
+            292,
+            1970
+          ],
+          "width_px": 278,
+          "height_px": 360
+        },
+        {
+          "self_ref": "#/pages/58",
+          "label": "p058",
+          "kind": "page",
+          "page_no": 58,
+          "source": "docling/source_artifacts/page_000058_6c8d6f26983816d5abe4ba7b00be0b4e93eb3c546dc5ac2b1ac594037d69cdcf.webp",
+          "bbox_px": [
+            304,
+            1608,
+            582,
+            1968
+          ],
+          "label_bbox_px": [
+            302,
+            1972,
+            584,
+            1995
+          ],
+          "border_bbox_px": [
+            302,
+            1606,
+            584,
+            1970
+          ],
+          "width_px": 278,
+          "height_px": 360
+        },
+        {
+          "self_ref": "#/pages/59",
+          "label": "p059",
+          "kind": "page",
+          "page_no": 59,
+          "source": "docling/source_artifacts/page_000059_3b46fa5613d23d25e96314ac9719469a4baa0485982170484a2efe96da876420.webp",
+          "bbox_px": [
+            596,
+            1608,
+            874,
+            1968
+          ],
+          "label_bbox_px": [
+            594,
+            1972,
+            876,
+            1995
+          ],
+          "border_bbox_px": [
+            594,
+            1606,
+            876,
+            1970
+          ],
+          "width_px": 278,
+          "height_px": 360
+        },
+        {
+          "self_ref": "#/pages/60",
+          "label": "p060",
+          "kind": "page",
+          "page_no": 60,
+          "source": "docling/source_artifacts/page_000060_a17f7cf074aca46e2573dd7bb4064524e7f0327d34eb6bc4e8d5421d0f12e6dd.webp",
+          "bbox_px": [
+            888,
+            1608,
+            1166,
+            1968
+          ],
+          "label_bbox_px": [
+            886,
+            1972,
+            1168,
+            1995
+          ],
+          "border_bbox_px": [
+            886,
+            1606,
+            1168,
+            1970
+          ],
+          "width_px": 278,
+          "height_px": 360
+        }
+      ]
+    },
+    {
+      "kind": "page",
+      "sheet": "page-sheets/page-sheet-004.webp",
+      "width_px": 1178,
+      "height_px": 2005,
+      "items": [
+        {
+          "self_ref": "#/pages/61",
+          "label": "p061",
+          "kind": "page",
+          "page_no": 61,
+          "source": "docling/source_artifacts/page_000061_557f41fb3d1e2a9874295e55cdf65a23e386e1787e2dcb6e1f80837ee44a0712.webp",
+          "bbox_px": [
+            12,
+            12,
+            290,
+            372
+          ],
+          "label_bbox_px": [
+            10,
+            376,
+            292,
+            399
+          ],
+          "border_bbox_px": [
+            10,
+            10,
+            292,
+            374
+          ],
+          "width_px": 278,
+          "height_px": 360
+        },
+        {
+          "self_ref": "#/pages/62",
+          "label": "p062",
+          "kind": "page",
+          "page_no": 62,
+          "source": "docling/source_artifacts/page_000062_2facfc8dae9b182a066a95d1ed614a38e696a07a17310c630a1cccdf501684ef.webp",
+          "bbox_px": [
+            304,
+            12,
+            582,
+            372
+          ],
+          "label_bbox_px": [
+            302,
+            376,
+            584,
+            399
+          ],
+          "border_bbox_px": [
+            302,
+            10,
+            584,
+            374
+          ],
+          "width_px": 278,
+          "height_px": 360
+        },
+        {
+          "self_ref": "#/pages/63",
+          "label": "p063",
+          "kind": "page",
+          "page_no": 63,
+          "source": "docling/source_artifacts/page_000063_2f7b943df1d177d5a83387a725c1c691cfcd963202c7d4a9d4479f0ce01ee9c0.webp",
+          "bbox_px": [
+            596,
+            12,
+            874,
+            372
+          ],
+          "label_bbox_px": [
+            594,
+            376,
+            876,
+            399
+          ],
+          "border_bbox_px": [
+            594,
+            10,
+            876,
+            374
+          ],
+          "width_px": 278,
+          "height_px": 360
+        },
+        {
+          "self_ref": "#/pages/64",
+          "label": "p064",
+          "kind": "page",
+          "page_no": 64,
+          "source": "docling/source_artifacts/page_000064_02079eff3434cd2f4dcc330261147f8a544b78dff1daa048b4c1be90ba1ecb2d.webp",
+          "bbox_px": [
+            888,
+            12,
+            1166,
+            372
+          ],
+          "label_bbox_px": [
+            886,
+            376,
+            1168,
+            399
+          ],
+          "border_bbox_px": [
+            886,
+            10,
+            1168,
+            374
+          ],
+          "width_px": 278,
+          "height_px": 360
+        },
+        {
+          "self_ref": "#/pages/65",
+          "label": "p065",
+          "kind": "page",
+          "page_no": 65,
+          "source": "docling/source_artifacts/page_000065_eb50456e5ac44e58a1b9c447169c587b37631fb0400b66cc794ee4d42614ee1c.webp",
+          "bbox_px": [
+            12,
+            411,
+            290,
+            771
+          ],
+          "label_bbox_px": [
+            10,
+            775,
+            292,
+            798
+          ],
+          "border_bbox_px": [
+            10,
+            409,
+            292,
+            773
+          ],
+          "width_px": 278,
+          "height_px": 360
+        },
+        {
+          "self_ref": "#/pages/66",
+          "label": "p066",
+          "kind": "page",
+          "page_no": 66,
+          "source": "docling/source_artifacts/page_000066_fb6bdc9a18c274184865306bc94c83ba1e96959c093e5ec29aa6b937d6bbe0b5.webp",
+          "bbox_px": [
+            304,
+            411,
+            582,
+            771
+          ],
+          "label_bbox_px": [
+            302,
+            775,
+            584,
+            798
+          ],
+          "border_bbox_px": [
+            302,
+            409,
+            584,
+            773
+          ],
+          "width_px": 278,
+          "height_px": 360
+        },
+        {
+          "self_ref": "#/pages/67",
+          "label": "p067",
+          "kind": "page",
+          "page_no": 67,
+          "source": "docling/source_artifacts/page_000067_58ca982529be42cc4a9a851d51584828e13483083059c70e61f1cc66264419d4.webp",
+          "bbox_px": [
+            596,
+            411,
+            874,
+            771
+          ],
+          "label_bbox_px": [
+            594,
+            775,
+            876,
+            798
+          ],
+          "border_bbox_px": [
+            594,
+            409,
+            876,
+            773
+          ],
+          "width_px": 278,
+          "height_px": 360
+        },
+        {
+          "self_ref": "#/pages/68",
+          "label": "p068",
+          "kind": "page",
+          "page_no": 68,
+          "source": "docling/source_artifacts/page_000068_6daac761ba2ff40d6919dfd880f538b5aa2080a9a5a39e8f384e8298945ff0f6.webp",
+          "bbox_px": [
+            888,
+            411,
+            1166,
+            771
+          ],
+          "label_bbox_px": [
+            886,
+            775,
+            1168,
+            798
+          ],
+          "border_bbox_px": [
+            886,
+            409,
+            1168,
+            773
+          ],
+          "width_px": 278,
+          "height_px": 360
+        },
+        {
+          "self_ref": "#/pages/69",
+          "label": "p069",
+          "kind": "page",
+          "page_no": 69,
+          "source": "docling/source_artifacts/page_000069_2528d8f542fd11134112a97be7729ad957188f5c8118c6aaf036b8c3499bdd9d.webp",
+          "bbox_px": [
+            12,
+            810,
+            290,
+            1170
+          ],
+          "label_bbox_px": [
+            10,
+            1174,
+            292,
+            1197
+          ],
+          "border_bbox_px": [
+            10,
+            808,
+            292,
+            1172
+          ],
+          "width_px": 278,
+          "height_px": 360
+        },
+        {
+          "self_ref": "#/pages/70",
+          "label": "p070",
+          "kind": "page",
+          "page_no": 70,
+          "source": "docling/source_artifacts/page_000070_8aec9bfb8a8bcf3f2db53a91e5b91bad9a10288ffb153c12a2c60bbe7bd24e40.webp",
+          "bbox_px": [
+            304,
+            810,
+            582,
+            1170
+          ],
+          "label_bbox_px": [
+            302,
+            1174,
+            584,
+            1197
+          ],
+          "border_bbox_px": [
+            302,
+            808,
+            584,
+            1172
+          ],
+          "width_px": 278,
+          "height_px": 360
+        },
+        {
+          "self_ref": "#/pages/71",
+          "label": "p071",
+          "kind": "page",
+          "page_no": 71,
+          "source": "docling/source_artifacts/page_000071_85487e10d99a293d1abb2bdcc0b194d0f01817e8f6f7d3eab83ddaf41284fd15.webp",
+          "bbox_px": [
+            596,
+            810,
+            874,
+            1170
+          ],
+          "label_bbox_px": [
+            594,
+            1174,
+            876,
+            1197
+          ],
+          "border_bbox_px": [
+            594,
+            808,
+            876,
+            1172
+          ],
+          "width_px": 278,
+          "height_px": 360
+        },
+        {
+          "self_ref": "#/pages/72",
+          "label": "p072",
+          "kind": "page",
+          "page_no": 72,
+          "source": "docling/source_artifacts/page_000072_45d7be97fc60731e56f907b1a598c4105574cf944119c0f31d79623767f2636a.webp",
+          "bbox_px": [
+            888,
+            810,
+            1166,
+            1170
+          ],
+          "label_bbox_px": [
+            886,
+            1174,
+            1168,
+            1197
+          ],
+          "border_bbox_px": [
+            886,
+            808,
+            1168,
+            1172
+          ],
+          "width_px": 278,
+          "height_px": 360
+        },
+        {
+          "self_ref": "#/pages/73",
+          "label": "p073",
+          "kind": "page",
+          "page_no": 73,
+          "source": "docling/source_artifacts/page_000073_66efc4e603ab6f98ee4c22d25fecffbeaaa19d4a91519a4cf50b3434c371d576.webp",
+          "bbox_px": [
+            12,
+            1209,
+            290,
+            1569
+          ],
+          "label_bbox_px": [
+            10,
+            1573,
+            292,
+            1596
+          ],
+          "border_bbox_px": [
+            10,
+            1207,
+            292,
+            1571
+          ],
+          "width_px": 278,
+          "height_px": 360
+        },
+        {
+          "self_ref": "#/pages/74",
+          "label": "p074",
+          "kind": "page",
+          "page_no": 74,
+          "source": "docling/source_artifacts/page_000074_94ac07b4ec7cd65be5366d788a3db328a19c15b6a9c4040ff01edadf2e3b246b.webp",
+          "bbox_px": [
+            304,
+            1209,
+            582,
+            1569
+          ],
+          "label_bbox_px": [
+            302,
+            1573,
+            584,
+            1596
+          ],
+          "border_bbox_px": [
+            302,
+            1207,
+            584,
+            1571
+          ],
+          "width_px": 278,
+          "height_px": 360
+        },
+        {
+          "self_ref": "#/pages/75",
+          "label": "p075",
+          "kind": "page",
+          "page_no": 75,
+          "source": "docling/source_artifacts/page_000075_3a4229a57f1d4fc511e474608160a2efa8fd1f6e274949c24c72a40f2bf1e025.webp",
+          "bbox_px": [
+            596,
+            1209,
+            874,
+            1569
+          ],
+          "label_bbox_px": [
+            594,
+            1573,
+            876,
+            1596
+          ],
+          "border_bbox_px": [
+            594,
+            1207,
+            876,
+            1571
+          ],
+          "width_px": 278,
+          "height_px": 360
+        },
+        {
+          "self_ref": "#/pages/76",
+          "label": "p076",
+          "kind": "page",
+          "page_no": 76,
+          "source": "docling/source_artifacts/page_000076_48be7998847ba13f74aa63f5f8c41ad48de7c3cc8edc0f2f847a6e52d5f6090e.webp",
+          "bbox_px": [
+            888,
+            1209,
+            1166,
+            1569
+          ],
+          "label_bbox_px": [
+            886,
+            1573,
+            1168,
+            1596
+          ],
+          "border_bbox_px": [
+            886,
+            1207,
+            1168,
+            1571
+          ],
+          "width_px": 278,
+          "height_px": 360
+        },
+        {
+          "self_ref": "#/pages/77",
+          "label": "p077",
+          "kind": "page",
+          "page_no": 77,
+          "source": "docling/source_artifacts/page_000077_dd2cde4d31152c6837011220d3c9ead7015bb52bb9eab5517f7ae733b7f0980d.webp",
+          "bbox_px": [
+            12,
+            1608,
+            290,
+            1968
+          ],
+          "label_bbox_px": [
+            10,
+            1972,
+            292,
+            1995
+          ],
+          "border_bbox_px": [
+            10,
+            1606,
+            292,
+            1970
+          ],
+          "width_px": 278,
+          "height_px": 360
+        },
+        {
+          "self_ref": "#/pages/78",
+          "label": "p078",
+          "kind": "page",
+          "page_no": 78,
+          "source": "docling/source_artifacts/page_000078_2850ad23caa11761fd7c2a0a967ece038db2e89f8eec8bc9ded84a1d8bb620af.webp",
+          "bbox_px": [
+            304,
+            1608,
+            582,
+            1968
+          ],
+          "label_bbox_px": [
+            302,
+            1972,
+            584,
+            1995
+          ],
+          "border_bbox_px": [
+            302,
+            1606,
+            584,
+            1970
+          ],
+          "width_px": 278,
+          "height_px": 360
+        },
+        {
+          "self_ref": "#/pages/79",
+          "label": "p079",
+          "kind": "page",
+          "page_no": 79,
+          "source": "docling/source_artifacts/page_000079_a0da4d5aec7b967f8f3eed090e55993203e1b4a9678bf2348051d1f801edf219.webp",
+          "bbox_px": [
+            596,
+            1608,
+            874,
+            1968
+          ],
+          "label_bbox_px": [
+            594,
+            1972,
+            876,
+            1995
+          ],
+          "border_bbox_px": [
+            594,
+            1606,
+            876,
+            1970
+          ],
+          "width_px": 278,
+          "height_px": 360
+        },
+        {
+          "self_ref": "#/pages/80",
+          "label": "p080",
+          "kind": "page",
+          "page_no": 80,
+          "source": "docling/source_artifacts/page_000080_251ff4642a13e721d68eb86f721c5c1990906cf4c276568cc41c5f4e317359e4.webp",
+          "bbox_px": [
+            888,
+            1608,
+            1166,
+            1968
+          ],
+          "label_bbox_px": [
+            886,
+            1972,
+            1168,
+            1995
+          ],
+          "border_bbox_px": [
+            886,
+            1606,
+            1168,
+            1970
+          ],
+          "width_px": 278,
+          "height_px": 360
+        }
+      ]
+    },
+    {
+      "kind": "page",
+      "sheet": "page-sheets/page-sheet-005.webp",
+      "width_px": 1178,
+      "height_px": 2005,
+      "items": [
+        {
+          "self_ref": "#/pages/81",
+          "label": "p081",
+          "kind": "page",
+          "page_no": 81,
+          "source": "docling/source_artifacts/page_000081_b250cdfdea78741fc9b6804cfb15cc80272a669c1a7905262a8ab936d7d3c44e.webp",
+          "bbox_px": [
+            12,
+            12,
+            290,
+            372
+          ],
+          "label_bbox_px": [
+            10,
+            376,
+            292,
+            399
+          ],
+          "border_bbox_px": [
+            10,
+            10,
+            292,
+            374
+          ],
+          "width_px": 278,
+          "height_px": 360
+        },
+        {
+          "self_ref": "#/pages/82",
+          "label": "p082",
+          "kind": "page",
+          "page_no": 82,
+          "source": "docling/source_artifacts/page_000082_55bd90360f23043558f3288811c1bb377d236a0a18bc95bc419f2358482c2e78.webp",
+          "bbox_px": [
+            304,
+            12,
+            582,
+            372
+          ],
+          "label_bbox_px": [
+            302,
+            376,
+            584,
+            399
+          ],
+          "border_bbox_px": [
+            302,
+            10,
+            584,
+            374
+          ],
+          "width_px": 278,
+          "height_px": 360
+        },
+        {
+          "self_ref": "#/pages/83",
+          "label": "p083",
+          "kind": "page",
+          "page_no": 83,
+          "source": "docling/source_artifacts/page_000083_35f5f8b9cc0a2f6a66d4ffe456ae373aabcf4148d7d6b76b28a9c0f5452c3a76.webp",
+          "bbox_px": [
+            596,
+            12,
+            874,
+            372
+          ],
+          "label_bbox_px": [
+            594,
+            376,
+            876,
+            399
+          ],
+          "border_bbox_px": [
+            594,
+            10,
+            876,
+            374
+          ],
+          "width_px": 278,
+          "height_px": 360
+        },
+        {
+          "self_ref": "#/pages/84",
+          "label": "p084",
+          "kind": "page",
+          "page_no": 84,
+          "source": "docling/source_artifacts/page_000084_d6e7cb9ab3aea26c03e9c02873874bc56861bb04ca8351f747347128e82b4da3.webp",
+          "bbox_px": [
+            888,
+            12,
+            1166,
+            372
+          ],
+          "label_bbox_px": [
+            886,
+            376,
+            1168,
+            399
+          ],
+          "border_bbox_px": [
+            886,
+            10,
+            1168,
+            374
+          ],
+          "width_px": 278,
+          "height_px": 360
+        },
+        {
+          "self_ref": "#/pages/85",
+          "label": "p085",
+          "kind": "page",
+          "page_no": 85,
+          "source": "docling/source_artifacts/page_000085_f24d6adeaa316e75a0aacf79673f86ad23e02a02bb892e2905dba3fc6a8d559c.webp",
+          "bbox_px": [
+            12,
+            411,
+            290,
+            771
+          ],
+          "label_bbox_px": [
+            10,
+            775,
+            292,
+            798
+          ],
+          "border_bbox_px": [
+            10,
+            409,
+            292,
+            773
+          ],
+          "width_px": 278,
+          "height_px": 360
+        },
+        {
+          "self_ref": "#/pages/86",
+          "label": "p086",
+          "kind": "page",
+          "page_no": 86,
+          "source": "docling/source_artifacts/page_000086_d2c3ebb450da167b1d53942b5ba9d977f68ec992ff840d9c78eb598de87088b8.webp",
+          "bbox_px": [
+            304,
+            411,
+            582,
+            771
+          ],
+          "label_bbox_px": [
+            302,
+            775,
+            584,
+            798
+          ],
+          "border_bbox_px": [
+            302,
+            409,
+            584,
+            773
+          ],
+          "width_px": 278,
+          "height_px": 360
+        },
+        {
+          "self_ref": "#/pages/87",
+          "label": "p087",
+          "kind": "page",
+          "page_no": 87,
+          "source": "docling/source_artifacts/page_000087_5db06521df50669a625d121e9e0be120c4bc8c1a310dc4a8981806aff2ffecc6.webp",
+          "bbox_px": [
+            596,
+            411,
+            874,
+            771
+          ],
+          "label_bbox_px": [
+            594,
+            775,
+            876,
+            798
+          ],
+          "border_bbox_px": [
+            594,
+            409,
+            876,
+            773
+          ],
+          "width_px": 278,
+          "height_px": 360
+        },
+        {
+          "self_ref": "#/pages/88",
+          "label": "p088",
+          "kind": "page",
+          "page_no": 88,
+          "source": "docling/source_artifacts/page_000088_4fae82e265b84b51cf1fbfb8ef58518c7542f5db1008392a215271c21acc3e52.webp",
+          "bbox_px": [
+            888,
+            411,
+            1166,
+            771
+          ],
+          "label_bbox_px": [
+            886,
+            775,
+            1168,
+            798
+          ],
+          "border_bbox_px": [
+            886,
+            409,
+            1168,
+            773
+          ],
+          "width_px": 278,
+          "height_px": 360
+        },
+        {
+          "self_ref": "#/pages/89",
+          "label": "p089",
+          "kind": "page",
+          "page_no": 89,
+          "source": "docling/source_artifacts/page_000089_022c8b810e8365abaf64c6b102c87b298f1c17db448e3bd33d36ee46f09caad4.webp",
+          "bbox_px": [
+            12,
+            810,
+            290,
+            1170
+          ],
+          "label_bbox_px": [
+            10,
+            1174,
+            292,
+            1197
+          ],
+          "border_bbox_px": [
+            10,
+            808,
+            292,
+            1172
+          ],
+          "width_px": 278,
+          "height_px": 360
+        },
+        {
+          "self_ref": "#/pages/90",
+          "label": "p090",
+          "kind": "page",
+          "page_no": 90,
+          "source": "docling/source_artifacts/page_000090_7e50542358fc6bca863a6e9ae61105456a79c692f051c213de246ac956c82097.webp",
+          "bbox_px": [
+            304,
+            810,
+            582,
+            1170
+          ],
+          "label_bbox_px": [
+            302,
+            1174,
+            584,
+            1197
+          ],
+          "border_bbox_px": [
+            302,
+            808,
+            584,
+            1172
+          ],
+          "width_px": 278,
+          "height_px": 360
+        },
+        {
+          "self_ref": "#/pages/91",
+          "label": "p091",
+          "kind": "page",
+          "page_no": 91,
+          "source": "docling/source_artifacts/page_000091_324df2c27c4b76639141883a63195926276db5f63611612bd0a64825feee219f.webp",
+          "bbox_px": [
+            596,
+            810,
+            874,
+            1170
+          ],
+          "label_bbox_px": [
+            594,
+            1174,
+            876,
+            1197
+          ],
+          "border_bbox_px": [
+            594,
+            808,
+            876,
+            1172
+          ],
+          "width_px": 278,
+          "height_px": 360
+        },
+        {
+          "self_ref": "#/pages/92",
+          "label": "p092",
+          "kind": "page",
+          "page_no": 92,
+          "source": "docling/source_artifacts/page_000092_637372fdc15c4b6a183b490a05baef7a907f7155bb4e89c47a73c4e526de39d7.webp",
+          "bbox_px": [
+            888,
+            810,
+            1166,
+            1170
+          ],
+          "label_bbox_px": [
+            886,
+            1174,
+            1168,
+            1197
+          ],
+          "border_bbox_px": [
+            886,
+            808,
+            1168,
+            1172
+          ],
+          "width_px": 278,
+          "height_px": 360
+        },
+        {
+          "self_ref": "#/pages/93",
+          "label": "p093",
+          "kind": "page",
+          "page_no": 93,
+          "source": "docling/source_artifacts/page_000093_aa2a17de2dd55ac874d76bf585468d2574696c97721754df035605b9ee632b65.webp",
+          "bbox_px": [
+            12,
+            1209,
+            290,
+            1569
+          ],
+          "label_bbox_px": [
+            10,
+            1573,
+            292,
+            1596
+          ],
+          "border_bbox_px": [
+            10,
+            1207,
+            292,
+            1571
+          ],
+          "width_px": 278,
+          "height_px": 360
+        },
+        {
+          "self_ref": "#/pages/94",
+          "label": "p094",
+          "kind": "page",
+          "page_no": 94,
+          "source": "docling/source_artifacts/page_000094_a551ae83d8715c75c48c9ca1b02049feacd4ea4418978bdaf0053fdc49a0cd85.webp",
+          "bbox_px": [
+            304,
+            1209,
+            582,
+            1569
+          ],
+          "label_bbox_px": [
+            302,
+            1573,
+            584,
+            1596
+          ],
+          "border_bbox_px": [
+            302,
+            1207,
+            584,
+            1571
+          ],
+          "width_px": 278,
+          "height_px": 360
+        },
+        {
+          "self_ref": "#/pages/95",
+          "label": "p095",
+          "kind": "page",
+          "page_no": 95,
+          "source": "docling/source_artifacts/page_000095_20ea72ba72e8bae520d17c2ba956e974724f5e1531511c89e6f1763f6c992ec1.webp",
+          "bbox_px": [
+            596,
+            1209,
+            874,
+            1569
+          ],
+          "label_bbox_px": [
+            594,
+            1573,
+            876,
+            1596
+          ],
+          "border_bbox_px": [
+            594,
+            1207,
+            876,
+            1571
+          ],
+          "width_px": 278,
+          "height_px": 360
+        },
+        {
+          "self_ref": "#/pages/96",
+          "label": "p096",
+          "kind": "page",
+          "page_no": 96,
+          "source": "docling/source_artifacts/page_000096_6ea2ae112531f64ae11883c78d22247d8823688c4978b104b6857307fc6e7f84.webp",
+          "bbox_px": [
+            888,
+            1209,
+            1166,
+            1569
+          ],
+          "label_bbox_px": [
+            886,
+            1573,
+            1168,
+            1596
+          ],
+          "border_bbox_px": [
+            886,
+            1207,
+            1168,
+            1571
+          ],
+          "width_px": 278,
+          "height_px": 360
+        },
+        {
+          "self_ref": "#/pages/97",
+          "label": "p097",
+          "kind": "page",
+          "page_no": 97,
+          "source": "docling/source_artifacts/page_000097_c5f3007c3c46ab1c6d11dbfca29718c3fbbd9ee6a93989a443edaa02df7c64ea.webp",
+          "bbox_px": [
+            12,
+            1608,
+            290,
+            1968
+          ],
+          "label_bbox_px": [
+            10,
+            1972,
+            292,
+            1995
+          ],
+          "border_bbox_px": [
+            10,
+            1606,
+            292,
+            1970
+          ],
+          "width_px": 278,
+          "height_px": 360
+        },
+        {
+          "self_ref": "#/pages/98",
+          "label": "p098",
+          "kind": "page",
+          "page_no": 98,
+          "source": "docling/source_artifacts/page_000098_21d0dde62c647c855ab2ed3a47f4a5894ffd1c32fc24ad856c6b25231c5890d7.webp",
+          "bbox_px": [
+            304,
+            1608,
+            582,
+            1968
+          ],
+          "label_bbox_px": [
+            302,
+            1972,
+            584,
+            1995
+          ],
+          "border_bbox_px": [
+            302,
+            1606,
+            584,
+            1970
+          ],
+          "width_px": 278,
+          "height_px": 360
+        },
+        {
+          "self_ref": "#/pages/99",
+          "label": "p099",
+          "kind": "page",
+          "page_no": 99,
+          "source": "docling/source_artifacts/page_000099_40fd7323001d333d11b7e72035cf95038c0aa483d2dbc0ea4270451d0c0de8fc.webp",
+          "bbox_px": [
+            596,
+            1608,
+            874,
+            1968
+          ],
+          "label_bbox_px": [
+            594,
+            1972,
+            876,
+            1995
+          ],
+          "border_bbox_px": [
+            594,
+            1606,
+            876,
+            1970
+          ],
+          "width_px": 278,
+          "height_px": 360
+        },
+        {
+          "self_ref": "#/pages/100",
+          "label": "p100",
+          "kind": "page",
+          "page_no": 100,
+          "source": "docling/source_artifacts/page_000100_4db03a5ad7da867736052f013ab64bdac90fcb4f8c21b79b84fc4ed5fc75bcad.webp",
+          "bbox_px": [
+            888,
+            1608,
+            1166,
+            1968
+          ],
+          "label_bbox_px": [
+            886,
+            1972,
+            1168,
+            1995
+          ],
+          "border_bbox_px": [
+            886,
+            1606,
+            1168,
+            1970
+          ],
+          "width_px": 278,
+          "height_px": 360
+        }
+      ]
+    },
+    {
+      "kind": "page",
+      "sheet": "page-sheets/page-sheet-006.webp",
+      "width_px": 886,
+      "height_px": 1207,
+      "items": [
+        {
+          "self_ref": "#/pages/101",
+          "label": "p101",
+          "kind": "page",
+          "page_no": 101,
+          "source": "docling/source_artifacts/page_000101_6f2a153dee25ad7c261d62bfe7189c05fef61fe0d3ee03e746cf877741014eb4.webp",
+          "bbox_px": [
+            12,
+            12,
+            290,
+            372
+          ],
+          "label_bbox_px": [
+            10,
+            376,
+            292,
+            399
+          ],
+          "border_bbox_px": [
+            10,
+            10,
+            292,
+            374
+          ],
+          "width_px": 278,
+          "height_px": 360
+        },
+        {
+          "self_ref": "#/pages/102",
+          "label": "p102",
+          "kind": "page",
+          "page_no": 102,
+          "source": "docling/source_artifacts/page_000102_c15ff214fe29f5bbcbd2e8935c792885bb96082caf45aed9ac188a3041b3fce4.webp",
+          "bbox_px": [
+            304,
+            12,
+            582,
+            372
+          ],
+          "label_bbox_px": [
+            302,
+            376,
+            584,
+            399
+          ],
+          "border_bbox_px": [
+            302,
+            10,
+            584,
+            374
+          ],
+          "width_px": 278,
+          "height_px": 360
+        },
+        {
+          "self_ref": "#/pages/103",
+          "label": "p103",
+          "kind": "page",
+          "page_no": 103,
+          "source": "docling/source_artifacts/page_000103_4eadb46baaa0b15d79467593671559f6e827728c47c95056ab7b11db8e7ddfee.webp",
+          "bbox_px": [
+            596,
+            12,
+            874,
+            372
+          ],
+          "label_bbox_px": [
+            594,
+            376,
+            876,
+            399
+          ],
+          "border_bbox_px": [
+            594,
+            10,
+            876,
+            374
+          ],
+          "width_px": 278,
+          "height_px": 360
+        },
+        {
+          "self_ref": "#/pages/104",
+          "label": "p104",
+          "kind": "page",
+          "page_no": 104,
+          "source": "docling/source_artifacts/page_000104_613ec5945a1625ac0c3d278b10dc87704e0485b6bbe50095fbedac2ab121f3ab.webp",
+          "bbox_px": [
+            12,
+            411,
+            290,
+            771
+          ],
+          "label_bbox_px": [
+            10,
+            775,
+            292,
+            798
+          ],
+          "border_bbox_px": [
+            10,
+            409,
+            292,
+            773
+          ],
+          "width_px": 278,
+          "height_px": 360
+        },
+        {
+          "self_ref": "#/pages/105",
+          "label": "p105",
+          "kind": "page",
+          "page_no": 105,
+          "source": "docling/source_artifacts/page_000105_8b9513f8f7a57860247329cafbcc1b4a10c0d81bb0d862e578d1e2045a57d815.webp",
+          "bbox_px": [
+            304,
+            411,
+            582,
+            771
+          ],
+          "label_bbox_px": [
+            302,
+            775,
+            584,
+            798
+          ],
+          "border_bbox_px": [
+            302,
+            409,
+            584,
+            773
+          ],
+          "width_px": 278,
+          "height_px": 360
+        },
+        {
+          "self_ref": "#/pages/106",
+          "label": "p106",
+          "kind": "page",
+          "page_no": 106,
+          "source": "docling/source_artifacts/page_000106_6a210adbacbb8fb695166adf4aea7664a3eb4d397402f1a2d855f7f0924f77e0.webp",
+          "bbox_px": [
+            596,
+            411,
+            874,
+            771
+          ],
+          "label_bbox_px": [
+            594,
+            775,
+            876,
+            798
+          ],
+          "border_bbox_px": [
+            594,
+            409,
+            876,
+            773
+          ],
+          "width_px": 278,
+          "height_px": 360
+        },
+        {
+          "self_ref": "#/pages/107",
+          "label": "p107",
+          "kind": "page",
+          "page_no": 107,
+          "source": "docling/source_artifacts/page_000107_8f533da31dcee2c2d7fd1d143a44d6233e425a9cd5855b089d40a7215021f1e9.webp",
+          "bbox_px": [
+            12,
+            810,
+            290,
+            1170
+          ],
+          "label_bbox_px": [
+            10,
+            1174,
+            292,
+            1197
+          ],
+          "border_bbox_px": [
+            10,
+            808,
+            292,
+            1172
+          ],
+          "width_px": 278,
+          "height_px": 360
+        },
+        {
+          "self_ref": "#/pages/108",
+          "label": "p108",
+          "kind": "page",
+          "page_no": 108,
+          "source": "docling/source_artifacts/page_000108_35345a50e134ade2736d2be266a65cca9b305e0fc8b87d09cda481b143e7c4d3.webp",
+          "bbox_px": [
+            304,
+            810,
+            582,
+            1170
+          ],
+          "label_bbox_px": [
+            302,
+            1174,
+            584,
+            1197
+          ],
+          "border_bbox_px": [
+            302,
+            808,
+            584,
+            1172
+          ],
+          "width_px": 278,
+          "height_px": 360
+        },
+        {
+          "self_ref": "#/pages/109",
+          "label": "p109",
+          "kind": "page",
+          "page_no": 109,
+          "source": "docling/source_artifacts/page_000109_a231aa2cc7897a8bac63dd5573755e586bd29c978a7b6604737ab722646fa1ff.webp",
+          "bbox_px": [
+            596,
+            810,
+            874,
+            1170
+          ],
+          "label_bbox_px": [
+            594,
+            1174,
+            876,
+            1197
+          ],
+          "border_bbox_px": [
+            594,
+            808,
+            876,
+            1172
+          ],
+          "width_px": 278,
+          "height_px": 360
+        }
+      ]
+    }
+  ],
+  "visual_links": [
+    {
+      "self_ref": "#/pictures/0",
+      "kind": "picture",
+      "label": "picture",
+      "page_no": 1,
+      "crop": "visual-crops/p001_0036_picture_pictures_0.webp",
+      "crop_sheet": "crop-sheets/crop-sheet-013.webp",
+      "crop_sheet_bbox_px": [
+        6,
+        6,
+        862,
+        282
+      ],
+      "page_sheet": "page-sheets/page-sheet-001.webp",
+      "page_sheet_bbox_px": [
+        12,
+        12,
+        290,
+        372
+      ]
+    },
+    {
+      "self_ref": "#/tables/0",
+      "kind": "table",
+      "label": "document_index",
+      "page_no": 3,
+      "crop": "visual-crops/p003_0058_table_tables_0.webp",
+      "crop_sheet": "crop-sheets/crop-sheet-001.webp",
+      "crop_sheet_bbox_px": [
+        6,
+        6,
+        958,
+        1195
+      ],
+      "page_sheet": "page-sheets/page-sheet-001.webp",
+      "page_sheet_bbox_px": [
+        596,
+        12,
+        874,
+        372
+      ]
+    },
+    {
+      "self_ref": "#/tables/1",
+      "kind": "table",
+      "label": "document_index",
+      "page_no": 4,
+      "crop": "visual-crops/p004_0059_table_tables_1.webp",
+      "crop_sheet": "crop-sheets/crop-sheet-004.webp",
+      "crop_sheet_bbox_px": [
+        6,
+        6,
+        957,
+        917
+      ],
+      "page_sheet": "page-sheets/page-sheet-001.webp",
+      "page_sheet_bbox_px": [
+        888,
+        12,
+        1166,
+        372
+      ]
+    },
+    {
+      "self_ref": "#/pictures/1",
+      "kind": "picture",
+      "label": "picture",
+      "page_no": 5,
+      "crop": "visual-crops/p005_0037_picture_pictures_1.webp",
+      "crop_sheet": "crop-sheets/crop-sheet-006.webp",
+      "crop_sheet_bbox_px": [
+        6,
+        686,
+        839,
+        1300
+      ],
+      "page_sheet": "page-sheets/page-sheet-001.webp",
+      "page_sheet_bbox_px": [
+        12,
+        411,
+        290,
+        771
+      ]
+    },
+    {
+      "self_ref": "#/tables/2",
+      "kind": "table",
+      "label": "table",
+      "page_no": 7,
+      "crop": "visual-crops/p007_0060_table_tables_2.webp",
+      "crop_sheet": "crop-sheets/crop-sheet-006.webp",
+      "crop_sheet_bbox_px": [
+        6,
+        1341,
+        891,
+        1633
+      ],
+      "page_sheet": "page-sheets/page-sheet-001.webp",
+      "page_sheet_bbox_px": [
+        596,
+        411,
+        874,
+        771
+      ]
+    },
+    {
+      "self_ref": "#/tables/3",
+      "kind": "table",
+      "label": "table",
+      "page_no": 8,
+      "crop": "visual-crops/p008_0061_table_tables_3.webp",
+      "crop_sheet": "crop-sheets/crop-sheet-012.webp",
+      "crop_sheet_bbox_px": [
+        713,
+        6,
+        1415,
+        240
+      ],
+      "page_sheet": "page-sheets/page-sheet-001.webp",
+      "page_sheet_bbox_px": [
+        888,
+        411,
+        1166,
+        771
+      ]
+    },
+    {
+      "self_ref": "#/texts/120",
+      "kind": "formula",
+      "label": "formula",
+      "page_no": 8,
+      "crop": "visual-crops/p008_0001_formula_texts_120.webp",
+      "crop_sheet": "crop-sheets/crop-sheet-006.webp",
+      "crop_sheet_bbox_px": [
+        899,
+        6,
+        1483,
+        35
+      ],
+      "page_sheet": "page-sheets/page-sheet-001.webp",
+      "page_sheet_bbox_px": [
+        888,
+        411,
+        1166,
+        771
+      ]
+    },
+    {
+      "self_ref": "#/texts/122",
+      "kind": "formula",
+      "label": "formula",
+      "page_no": 8,
+      "crop": "visual-crops/p008_0002_formula_texts_122.webp",
+      "crop_sheet": "crop-sheets/crop-sheet-001.webp",
+      "crop_sheet_bbox_px": [
+        925,
+        1493,
+        1469,
+        1549
+      ],
+      "page_sheet": "page-sheets/page-sheet-001.webp",
+      "page_sheet_bbox_px": [
+        888,
+        411,
+        1166,
+        771
+      ]
+    },
+    {
+      "self_ref": "#/pictures/2",
+      "kind": "picture",
+      "label": "picture",
+      "page_no": 9,
+      "crop": "visual-crops/p009_0038_picture_pictures_2.webp",
+      "crop_sheet": "crop-sheets/crop-sheet-007.webp",
+      "crop_sheet_bbox_px": [
+        6,
+        545,
+        888,
+        1044
+      ],
+      "page_sheet": "page-sheets/page-sheet-001.webp",
+      "page_sheet_bbox_px": [
+        12,
+        810,
+        290,
+        1170
+      ]
+    },
+    {
+      "self_ref": "#/tables/4",
+      "kind": "table",
+      "label": "table",
+      "page_no": 10,
+      "crop": "visual-crops/p010_0062_table_tables_4.webp",
+      "crop_sheet": "crop-sheets/crop-sheet-008.webp",
+      "crop_sheet_bbox_px": [
+        6,
+        561,
+        936,
+        985
+      ],
+      "page_sheet": "page-sheets/page-sheet-001.webp",
+      "page_sheet_bbox_px": [
+        304,
+        810,
+        582,
+        1170
+      ]
+    },
+    {
+      "self_ref": "#/pictures/3",
+      "kind": "picture",
+      "label": "picture",
+      "page_no": 12,
+      "crop": "visual-crops/p012_0039_picture_pictures_3.webp",
+      "crop_sheet": "crop-sheets/crop-sheet-004.webp",
+      "crop_sheet_bbox_px": [
+        6,
+        958,
+        918,
+        1628
+      ],
+      "page_sheet": "page-sheets/page-sheet-001.webp",
+      "page_sheet_bbox_px": [
+        888,
+        810,
+        1166,
+        1170
+      ]
+    },
+    {
+      "self_ref": "#/tables/5",
+      "kind": "table",
+      "label": "table",
+      "page_no": 13,
+      "crop": "visual-crops/p013_0063_table_tables_5.webp",
+      "crop_sheet": "crop-sheets/crop-sheet-001.webp",
+      "crop_sheet_bbox_px": [
+        962,
+        431,
+        1366,
+        576
+      ],
+      "page_sheet": "page-sheets/page-sheet-001.webp",
+      "page_sheet_bbox_px": [
+        12,
+        1209,
+        290,
+        1569
+      ]
+    },
+    {
+      "self_ref": "#/pictures/4",
+      "kind": "picture",
+      "label": "picture",
+      "page_no": 16,
+      "crop": "visual-crops/p016_0040_picture_pictures_4.webp",
+      "crop_sheet": "crop-sheets/crop-sheet-006.webp",
+      "crop_sheet_bbox_px": [
+        843,
+        686,
+        1448,
+        1143
+      ],
+      "page_sheet": "page-sheets/page-sheet-001.webp",
+      "page_sheet_bbox_px": [
+        888,
+        1209,
+        1166,
+        1569
+      ]
+    },
+    {
+      "self_ref": "#/pictures/5",
+      "kind": "picture",
+      "label": "picture",
+      "page_no": 18,
+      "crop": "visual-crops/p018_0041_picture_pictures_5.webp",
+      "crop_sheet": "crop-sheets/crop-sheet-010.webp",
+      "crop_sheet_bbox_px": [
+        6,
+        6,
+        847,
+        383
+      ],
+      "page_sheet": "page-sheets/page-sheet-001.webp",
+      "page_sheet_bbox_px": [
+        304,
+        1608,
+        582,
+        1968
+      ]
+    },
+    {
+      "self_ref": "#/pictures/6",
+      "kind": "picture",
+      "label": "picture",
+      "page_no": 19,
+      "crop": "visual-crops/p019_0042_picture_pictures_6.webp",
+      "crop_sheet": "crop-sheets/crop-sheet-008.webp",
+      "crop_sheet_bbox_px": [
+        6,
+        6,
+        814,
+        520
+      ],
+      "page_sheet": "page-sheets/page-sheet-001.webp",
+      "page_sheet_bbox_px": [
+        596,
+        1608,
+        874,
+        1968
+      ]
+    },
+    {
+      "self_ref": "#/tables/6",
+      "kind": "table",
+      "label": "table",
+      "page_no": 20,
+      "crop": "visual-crops/p020_0064_table_tables_6.webp",
+      "crop_sheet": "crop-sheets/crop-sheet-013.webp",
+      "crop_sheet_bbox_px": [
+        6,
+        958,
+        862,
+        1206
+      ],
+      "page_sheet": "page-sheets/page-sheet-001.webp",
+      "page_sheet_bbox_px": [
+        888,
+        1608,
+        1166,
+        1968
+      ]
+    },
+    {
+      "self_ref": "#/tables/7",
+      "kind": "table",
+      "label": "table",
+      "page_no": 21,
+      "crop": "visual-crops/p021_0065_table_tables_7.webp",
+      "crop_sheet": "crop-sheets/crop-sheet-001.webp",
+      "crop_sheet_bbox_px": [
+        962,
+        239,
+        1475,
+        390
+      ],
+      "page_sheet": "page-sheets/page-sheet-002.webp",
+      "page_sheet_bbox_px": [
+        12,
+        12,
+        290,
+        372
+      ]
+    },
+    {
+      "self_ref": "#/pictures/7",
+      "kind": "picture",
+      "label": "picture",
+      "page_no": 22,
+      "crop": "visual-crops/p022_0043_picture_pictures_7.webp",
+      "crop_sheet": "crop-sheets/crop-sheet-010.webp",
+      "crop_sheet_bbox_px": [
+        6,
+        424,
+        899,
+        775
+      ],
+      "page_sheet": "page-sheets/page-sheet-002.webp",
+      "page_sheet_bbox_px": [
+        304,
+        12,
+        582,
+        372
+      ]
+    },
+    {
+      "self_ref": "#/pictures/8",
+      "kind": "picture",
+      "label": "picture",
+      "page_no": 23,
+      "crop": "visual-crops/p023_0044_picture_pictures_8.webp",
+      "crop_sheet": "crop-sheets/crop-sheet-011.webp",
+      "crop_sheet_bbox_px": [
+        6,
+        1164,
+        956,
+        1426
+      ],
+      "page_sheet": "page-sheets/page-sheet-002.webp",
+      "page_sheet_bbox_px": [
+        596,
+        12,
+        874,
+        372
+      ]
+    },
+    {
+      "self_ref": "#/pictures/9",
+      "kind": "picture",
+      "label": "picture",
+      "page_no": 24,
+      "crop": "visual-crops/p024_0045_picture_pictures_9.webp",
+      "crop_sheet": "crop-sheets/crop-sheet-005.webp",
+      "crop_sheet_bbox_px": [
+        6,
+        916,
+        946,
+        1552
+      ],
+      "page_sheet": "page-sheets/page-sheet-002.webp",
+      "page_sheet_bbox_px": [
+        888,
+        12,
+        1166,
+        372
+      ]
+    },
+    {
+      "self_ref": "#/tables/8",
+      "kind": "table",
+      "label": "table",
+      "page_no": 29,
+      "crop": "visual-crops/p029_0066_table_tables_8.webp",
+      "crop_sheet": "crop-sheets/crop-sheet-015.webp",
+      "crop_sheet_bbox_px": [
+        6,
+        6,
+        687,
+        242
+      ],
+      "page_sheet": "page-sheets/page-sheet-002.webp",
+      "page_sheet_bbox_px": [
+        12,
+        810,
+        290,
+        1170
+      ]
+    },
+    {
+      "self_ref": "#/pictures/10",
+      "kind": "picture",
+      "label": "picture",
+      "page_no": 30,
+      "crop": "visual-crops/p030_0046_picture_pictures_10.webp",
+      "crop_sheet": "crop-sheets/crop-sheet-010.webp",
+      "crop_sheet_bbox_px": [
+        6,
+        816,
+        826,
+        1193
+      ],
+      "page_sheet": "page-sheets/page-sheet-002.webp",
+      "page_sheet_bbox_px": [
+        304,
+        810,
+        582,
+        1170
+      ]
+    },
+    {
+      "self_ref": "#/pictures/11",
+      "kind": "picture",
+      "label": "picture",
+      "page_no": 31,
+      "crop": "visual-crops/p031_0047_picture_pictures_11.webp",
+      "crop_sheet": "crop-sheets/crop-sheet-014.webp",
+      "crop_sheet_bbox_px": [
+        6,
+        1258,
+        908,
+        1437
+      ],
+      "page_sheet": "page-sheets/page-sheet-002.webp",
+      "page_sheet_bbox_px": [
+        596,
+        810,
+        874,
+        1170
+      ]
+    },
+    {
+      "self_ref": "#/texts/874",
+      "kind": "formula",
+      "label": "formula",
+      "page_no": 31,
+      "crop": "visual-crops/p031_0003_formula_texts_874.webp",
+      "crop_sheet": "crop-sheets/crop-sheet-001.webp",
+      "crop_sheet_bbox_px": [
+        925,
+        1590,
+        1465,
+        1620
+      ],
+      "page_sheet": "page-sheets/page-sheet-002.webp",
+      "page_sheet_bbox_px": [
+        596,
+        810,
+        874,
+        1170
+      ]
+    },
+    {
+      "self_ref": "#/texts/876",
+      "kind": "formula",
+      "label": "formula",
+      "page_no": 31,
+      "crop": "visual-crops/p031_0004_formula_texts_876.webp",
+      "crop_sheet": "crop-sheets/crop-sheet-015.webp",
+      "crop_sheet_bbox_px": [
+        6,
+        448,
+        888,
+        574
+      ],
+      "page_sheet": "page-sheets/page-sheet-002.webp",
+      "page_sheet_bbox_px": [
+        596,
+        810,
+        874,
+        1170
+      ]
+    },
+    {
+      "self_ref": "#/texts/878",
+      "kind": "formula",
+      "label": "formula",
+      "page_no": 31,
+      "crop": "visual-crops/p031_0005_formula_texts_878.webp",
+      "crop_sheet": "crop-sheets/crop-sheet-007.webp",
+      "crop_sheet_bbox_px": [
+        892,
+        545,
+        1497,
+        609
+      ],
+      "page_sheet": "page-sheets/page-sheet-002.webp",
+      "page_sheet_bbox_px": [
+        596,
+        810,
+        874,
+        1170
+      ]
+    },
+    {
+      "self_ref": "#/texts/881",
+      "kind": "formula",
+      "label": "formula",
+      "page_no": 31,
+      "crop": "visual-crops/p031_0006_formula_texts_881.webp",
+      "crop_sheet": "crop-sheets/crop-sheet-001.webp",
+      "crop_sheet_bbox_px": [
+        962,
+        775,
+        1349,
+        857
+      ],
+      "page_sheet": "page-sheets/page-sheet-002.webp",
+      "page_sheet_bbox_px": [
+        596,
+        810,
+        874,
+        1170
+      ]
+    },
+    {
+      "self_ref": "#/pictures/12",
+      "kind": "picture",
+      "label": "picture",
+      "page_no": 32,
+      "crop": "visual-crops/p032_0048_picture_pictures_12.webp",
+      "crop_sheet": "crop-sheets/crop-sheet-012.webp",
+      "crop_sheet_bbox_px": [
+        6,
+        6,
+        709,
+        369
+      ],
+      "page_sheet": "page-sheets/page-sheet-002.webp",
+      "page_sheet_bbox_px": [
+        888,
+        810,
+        1166,
+        1170
+      ]
+    },
+    {
+      "self_ref": "#/texts/886",
+      "kind": "formula",
+      "label": "formula",
+      "page_no": 32,
+      "crop": "visual-crops/p032_0007_formula_texts_886.webp",
+      "crop_sheet": "crop-sheets/crop-sheet-012.webp",
+      "crop_sheet_bbox_px": [
+        713,
+        281,
+        1418,
+        363
+      ],
+      "page_sheet": "page-sheets/page-sheet-002.webp",
+      "page_sheet_bbox_px": [
+        888,
+        810,
+        1166,
+        1170
+      ]
+    },
+    {
+      "self_ref": "#/texts/889",
+      "kind": "formula",
+      "label": "formula",
+      "page_no": 32,
+      "crop": "visual-crops/p032_0008_formula_texts_889.webp",
+      "crop_sheet": "crop-sheets/crop-sheet-015.webp",
+      "crop_sheet_bbox_px": [
+        691,
+        6,
+        1386,
+        88
+      ],
+      "page_sheet": "page-sheets/page-sheet-002.webp",
+      "page_sheet_bbox_px": [
+        888,
+        810,
+        1166,
+        1170
+      ]
+    },
+    {
+      "self_ref": "#/texts/894",
+      "kind": "formula",
+      "label": "formula",
+      "page_no": 33,
+      "crop": "visual-crops/p033_0009_formula_texts_894.webp",
+      "crop_sheet": "crop-sheets/crop-sheet-006.webp",
+      "crop_sheet_bbox_px": [
+        843,
+        1184,
+        1472,
+        1266
+      ],
+      "page_sheet": "page-sheets/page-sheet-002.webp",
+      "page_sheet_bbox_px": [
+        12,
+        1209,
+        290,
+        1569
+      ]
+    },
+    {
+      "self_ref": "#/texts/899",
+      "kind": "formula",
+      "label": "formula",
+      "page_no": 33,
+      "crop": "visual-crops/p033_0010_formula_texts_899.webp",
+      "crop_sheet": "crop-sheets/crop-sheet-005.webp",
+      "crop_sheet_bbox_px": [
+        6,
+        1593,
+        734,
+        1634
+      ],
+      "page_sheet": "page-sheets/page-sheet-002.webp",
+      "page_sheet_bbox_px": [
+        12,
+        1209,
+        290,
+        1569
+      ]
+    },
+    {
+      "self_ref": "#/texts/902",
+      "kind": "formula",
+      "label": "formula",
+      "page_no": 33,
+      "crop": "visual-crops/p033_0011_formula_texts_902.webp",
+      "crop_sheet": "crop-sheets/crop-sheet-008.webp",
+      "crop_sheet_bbox_px": [
+        818,
+        235,
+        1488,
+        317
+      ],
+      "page_sheet": "page-sheets/page-sheet-002.webp",
+      "page_sheet_bbox_px": [
+        12,
+        1209,
+        290,
+        1569
+      ]
+    },
+    {
+      "self_ref": "#/texts/905",
+      "kind": "formula",
+      "label": "formula",
+      "page_no": 33,
+      "crop": "visual-crops/p033_0012_formula_texts_905.webp",
+      "crop_sheet": "crop-sheets/crop-sheet-001.webp",
+      "crop_sheet_bbox_px": [
+        925,
+        1399,
+        1490,
+        1452
+      ],
+      "page_sheet": "page-sheets/page-sheet-002.webp",
+      "page_sheet_bbox_px": [
+        12,
+        1209,
+        290,
+        1569
+      ]
+    },
+    {
+      "self_ref": "#/texts/910",
+      "kind": "code",
+      "label": "code",
+      "page_no": 34,
+      "crop": "visual-crops/p034_0013_code_texts_910.webp",
+      "crop_sheet": "crop-sheets/crop-sheet-014.webp",
+      "crop_sheet_bbox_px": [
+        6,
+        269,
+        924,
+        480
+      ],
+      "page_sheet": "page-sheets/page-sheet-002.webp",
+      "page_sheet_bbox_px": [
+        304,
+        1209,
+        582,
+        1569
+      ]
+    },
+    {
+      "self_ref": "#/pictures/13",
+      "kind": "picture",
+      "label": "picture",
+      "page_no": 35,
+      "crop": "visual-crops/p035_0049_picture_pictures_13.webp",
+      "crop_sheet": "crop-sheets/crop-sheet-009.webp",
+      "crop_sheet_bbox_px": [
+        6,
+        436,
+        948,
+        808
+      ],
+      "page_sheet": "page-sheets/page-sheet-002.webp",
+      "page_sheet_bbox_px": [
+        596,
+        1209,
+        874,
+        1569
+      ]
+    },
+    {
+      "self_ref": "#/pictures/14",
+      "kind": "picture",
+      "label": "picture",
+      "page_no": 37,
+      "crop": "visual-crops/p037_0050_picture_pictures_14.webp",
+      "crop_sheet": "crop-sheets/crop-sheet-013.webp",
+      "crop_sheet_bbox_px": [
+        6,
+        627,
+        816,
+        917
+      ],
+      "page_sheet": "page-sheets/page-sheet-002.webp",
+      "page_sheet_bbox_px": [
+        12,
+        1608,
+        290,
+        1968
+      ]
+    },
+    {
+      "self_ref": "#/pictures/15",
+      "kind": "picture",
+      "label": "picture",
+      "page_no": 38,
+      "crop": "visual-crops/p038_0051_picture_pictures_15.webp",
+      "crop_sheet": "crop-sheets/crop-sheet-013.webp",
+      "crop_sheet_bbox_px": [
+        6,
+        1247,
+        937,
+        1465
+      ],
+      "page_sheet": "page-sheets/page-sheet-002.webp",
+      "page_sheet_bbox_px": [
+        304,
+        1608,
+        582,
+        1968
+      ]
+    },
+    {
+      "self_ref": "#/pictures/16",
+      "kind": "picture",
+      "label": "picture",
+      "page_no": 40,
+      "crop": "visual-crops/p040_0052_picture_pictures_16.webp",
+      "crop_sheet": "crop-sheets/crop-sheet-009.webp",
+      "crop_sheet_bbox_px": [
+        715,
+        849,
+        1402,
+        1273
+      ],
+      "page_sheet": "page-sheets/page-sheet-002.webp",
+      "page_sheet_bbox_px": [
+        888,
+        1608,
+        1166,
+        1968
+      ]
+    },
+    {
+      "self_ref": "#/texts/1121",
+      "kind": "code",
+      "label": "code",
+      "page_no": 44,
+      "crop": "visual-crops/p044_0014_code_texts_1121.webp",
+      "crop_sheet": "crop-sheets/crop-sheet-005.webp",
+      "crop_sheet_bbox_px": [
+        738,
+        1593,
+        1462,
+        1624
+      ],
+      "page_sheet": "page-sheets/page-sheet-003.webp",
+      "page_sheet_bbox_px": [
+        888,
+        12,
+        1166,
+        372
+      ]
+    },
+    {
+      "self_ref": "#/tables/9",
+      "kind": "table",
+      "label": "table",
+      "page_no": 47,
+      "crop": "visual-crops/p047_0067_table_tables_9.webp",
+      "crop_sheet": "crop-sheets/crop-sheet-014.webp",
+      "crop_sheet_bbox_px": [
+        6,
+        521,
+        836,
+        754
+      ],
+      "page_sheet": "page-sheets/page-sheet-003.webp",
+      "page_sheet_bbox_px": [
+        596,
+        411,
+        874,
+        771
+      ]
+    },
+    {
+      "self_ref": "#/tables/10",
+      "kind": "table",
+      "label": "table",
+      "page_no": 48,
+      "crop": "visual-crops/p048_0068_table_tables_10.webp",
+      "crop_sheet": "crop-sheets/crop-sheet-011.webp",
+      "crop_sheet_bbox_px": [
+        6,
+        6,
+        820,
+        374
+      ],
+      "page_sheet": "page-sheets/page-sheet-003.webp",
+      "page_sheet_bbox_px": [
+        888,
+        411,
+        1166,
+        771
+      ]
+    },
+    {
+      "self_ref": "#/tables/11",
+      "kind": "table",
+      "label": "table",
+      "page_no": 49,
+      "crop": "visual-crops/p049_0069_table_tables_11.webp",
+      "crop_sheet": "crop-sheets/crop-sheet-001.webp",
+      "crop_sheet_bbox_px": [
+        925,
+        1236,
+        1486,
+        1358
+      ],
+      "page_sheet": "page-sheets/page-sheet-003.webp",
+      "page_sheet_bbox_px": [
+        12,
+        810,
+        290,
+        1170
+      ]
+    },
+    {
+      "self_ref": "#/pictures/17",
+      "kind": "picture",
+      "label": "picture",
+      "page_no": 50,
+      "crop": "visual-crops/p050_0053_picture_pictures_17.webp",
+      "crop_sheet": "crop-sheets/crop-sheet-007.webp",
+      "crop_sheet_bbox_px": [
+        6,
+        1085,
+        915,
+        1564
+      ],
+      "page_sheet": "page-sheets/page-sheet-003.webp",
+      "page_sheet_bbox_px": [
+        304,
+        810,
+        582,
+        1170
+      ]
+    },
+    {
+      "self_ref": "#/tables/12",
+      "kind": "table",
+      "label": "table",
+      "page_no": 53,
+      "crop": "visual-crops/p053_0070_table_tables_12.webp",
+      "crop_sheet": "crop-sheets/crop-sheet-013.webp",
+      "crop_sheet_bbox_px": [
+        6,
+        323,
+        895,
+        586
+      ],
+      "page_sheet": "page-sheets/page-sheet-003.webp",
+      "page_sheet_bbox_px": [
+        12,
+        1209,
+        290,
+        1569
+      ]
+    },
+    {
+      "self_ref": "#/tables/13",
+      "kind": "table",
+      "label": "table",
+      "page_no": 54,
+      "crop": "visual-crops/p054_0071_table_tables_13.webp",
+      "crop_sheet": "crop-sheets/crop-sheet-008.webp",
+      "crop_sheet_bbox_px": [
+        6,
+        1487,
+        922,
+        1631
+      ],
+      "page_sheet": "page-sheets/page-sheet-003.webp",
+      "page_sheet_bbox_px": [
+        304,
+        1209,
+        582,
+        1569
+      ]
+    },
+    {
+      "self_ref": "#/tables/14",
+      "kind": "table",
+      "label": "table",
+      "page_no": 55,
+      "crop": "visual-crops/p055_0072_table_tables_14.webp",
+      "crop_sheet": "crop-sheets/crop-sheet-014.webp",
+      "crop_sheet_bbox_px": [
+        6,
+        1050,
+        961,
+        1217
+      ],
+      "page_sheet": "page-sheets/page-sheet-003.webp",
+      "page_sheet_bbox_px": [
+        596,
+        1209,
+        874,
+        1569
+      ]
+    },
+    {
+      "self_ref": "#/tables/15",
+      "kind": "table",
+      "label": "table",
+      "page_no": 56,
+      "crop": "visual-crops/p056_0073_table_tables_15.webp",
+      "crop_sheet": "crop-sheets/crop-sheet-001.webp",
+      "crop_sheet_bbox_px": [
+        962,
+        6,
+        1496,
+        198
+      ],
+      "page_sheet": "page-sheets/page-sheet-003.webp",
+      "page_sheet_bbox_px": [
+        888,
+        1209,
+        1166,
+        1569
+      ]
+    },
+    {
+      "self_ref": "#/pictures/18",
+      "kind": "picture",
+      "label": "picture",
+      "page_no": 57,
+      "crop": "visual-crops/p057_0054_picture_pictures_18.webp",
+      "crop_sheet": "crop-sheets/crop-sheet-009.webp",
+      "crop_sheet_bbox_px": [
+        6,
+        849,
+        711,
+        1358
+      ],
+      "page_sheet": "page-sheets/page-sheet-003.webp",
+      "page_sheet_bbox_px": [
+        12,
+        1608,
+        290,
+        1968
+      ]
+    },
+    {
+      "self_ref": "#/pictures/19",
+      "kind": "picture",
+      "label": "picture",
+      "page_no": 58,
+      "crop": "visual-crops/p058_0055_picture_pictures_19.webp",
+      "crop_sheet": "crop-sheets/crop-sheet-010.webp",
+      "crop_sheet_bbox_px": [
+        6,
+        1234,
+        841,
+        1592
+      ],
+      "page_sheet": "page-sheets/page-sheet-003.webp",
+      "page_sheet_bbox_px": [
+        304,
+        1608,
+        582,
+        1968
+      ]
+    },
+    {
+      "self_ref": "#/texts/1637",
+      "kind": "code",
+      "label": "code",
+      "page_no": 82,
+      "crop": "visual-crops/p082_0015_code_texts_1637.webp",
+      "crop_sheet": "crop-sheets/crop-sheet-008.webp",
+      "crop_sheet_bbox_px": [
+        818,
+        6,
+        1478,
+        194
+      ],
+      "page_sheet": "page-sheets/page-sheet-005.webp",
+      "page_sheet_bbox_px": [
+        304,
+        12,
+        582,
+        372
+      ]
+    },
+    {
+      "self_ref": "#/pictures/20",
+      "kind": "picture",
+      "label": "picture",
+      "page_no": 88,
+      "crop": "visual-crops/p088_0056_picture_pictures_20.webp",
+      "crop_sheet": "crop-sheets/crop-sheet-003.webp",
+      "crop_sheet_bbox_px": [
+        6,
+        6,
+        923,
+        1000
+      ],
+      "page_sheet": "page-sheets/page-sheet-005.webp",
+      "page_sheet_bbox_px": [
+        888,
+        411,
+        1166,
+        771
+      ]
+    },
+    {
+      "self_ref": "#/texts/1801",
+      "kind": "code",
+      "label": "code",
+      "page_no": 89,
+      "crop": "visual-crops/p089_0016_code_texts_1801.webp",
+      "crop_sheet": "crop-sheets/crop-sheet-015.webp",
+      "crop_sheet_bbox_px": [
+        6,
+        615,
+        921,
+        680
+      ],
+      "page_sheet": "page-sheets/page-sheet-005.webp",
+      "page_sheet_bbox_px": [
+        12,
+        810,
+        290,
+        1170
+      ]
+    },
+    {
+      "self_ref": "#/texts/1804",
+      "kind": "code",
+      "label": "code",
+      "page_no": 89,
+      "crop": "visual-crops/p089_0017_code_texts_1804.webp",
+      "crop_sheet": "crop-sheets/crop-sheet-009.webp",
+      "crop_sheet_bbox_px": [
+        6,
+        1399,
+        918,
+        1641
+      ],
+      "page_sheet": "page-sheets/page-sheet-005.webp",
+      "page_sheet_bbox_px": [
+        12,
+        810,
+        290,
+        1170
+      ]
+    },
+    {
+      "self_ref": "#/texts/1806",
+      "kind": "code",
+      "label": "code",
+      "page_no": 89,
+      "crop": "visual-crops/p089_0018_code_texts_1806.webp",
+      "crop_sheet": "crop-sheets/crop-sheet-012.webp",
+      "crop_sheet_bbox_px": [
+        6,
+        733,
+        921,
+        995
+      ],
+      "page_sheet": "page-sheets/page-sheet-005.webp",
+      "page_sheet_bbox_px": [
+        12,
+        810,
+        290,
+        1170
+      ]
+    },
+    {
+      "self_ref": "#/texts/1808",
+      "kind": "code",
+      "label": "code",
+      "page_no": 90,
+      "crop": "visual-crops/p090_0019_code_texts_1808.webp",
+      "crop_sheet": "crop-sheets/crop-sheet-001.webp",
+      "crop_sheet_bbox_px": [
+        6,
+        1236,
+        921,
+        1636
+      ],
+      "page_sheet": "page-sheets/page-sheet-005.webp",
+      "page_sheet_bbox_px": [
+        304,
+        810,
+        582,
+        1170
+      ]
+    },
+    {
+      "self_ref": "#/texts/1810",
+      "kind": "code",
+      "label": "code",
+      "page_no": 90,
+      "crop": "visual-crops/p090_0020_code_texts_1810.webp",
+      "crop_sheet": "crop-sheets/crop-sheet-007.webp",
+      "crop_sheet_bbox_px": [
+        6,
+        1605,
+        908,
+        1630
+      ],
+      "page_sheet": "page-sheets/page-sheet-005.webp",
+      "page_sheet_bbox_px": [
+        304,
+        810,
+        582,
+        1170
+      ]
+    },
+    {
+      "self_ref": "#/texts/1811",
+      "kind": "code",
+      "label": "code",
+      "page_no": 90,
+      "crop": "visual-crops/p090_0021_code_texts_1811.webp",
+      "crop_sheet": "crop-sheets/crop-sheet-015.webp",
+      "crop_sheet_bbox_px": [
+        6,
+        721,
+        880,
+        746
+      ],
+      "page_sheet": "page-sheets/page-sheet-005.webp",
+      "page_sheet_bbox_px": [
+        304,
+        810,
+        582,
+        1170
+      ]
+    },
+    {
+      "self_ref": "#/texts/1814",
+      "kind": "code",
+      "label": "code",
+      "page_no": 90,
+      "crop": "visual-crops/p090_0022_code_texts_1814.webp",
+      "crop_sheet": "crop-sheets/crop-sheet-012.webp",
+      "crop_sheet_bbox_px": [
+        6,
+        1036,
+        921,
+        1298
+      ],
+      "page_sheet": "page-sheets/page-sheet-005.webp",
+      "page_sheet_bbox_px": [
+        304,
+        810,
+        582,
+        1170
+      ]
+    },
+    {
+      "self_ref": "#/texts/1816",
+      "kind": "code",
+      "label": "code",
+      "page_no": 90,
+      "crop": "visual-crops/p090_0023_code_texts_1816.webp",
+      "crop_sheet": "crop-sheets/crop-sheet-014.webp",
+      "crop_sheet_bbox_px": [
+        6,
+        1478,
+        918,
+        1622
+      ],
+      "page_sheet": "page-sheets/page-sheet-005.webp",
+      "page_sheet_bbox_px": [
+        304,
+        810,
+        582,
+        1170
+      ]
+    },
+    {
+      "self_ref": "#/texts/1818",
+      "kind": "code",
+      "label": "code",
+      "page_no": 91,
+      "crop": "visual-crops/p091_0024_code_texts_1818.webp",
+      "crop_sheet": "crop-sheets/crop-sheet-014.webp",
+      "crop_sheet_bbox_px": [
+        6,
+        6,
+        899,
+        228
+      ],
+      "page_sheet": "page-sheets/page-sheet-005.webp",
+      "page_sheet_bbox_px": [
+        596,
+        810,
+        874,
+        1170
+      ]
+    },
+    {
+      "self_ref": "#/texts/1821",
+      "kind": "code",
+      "label": "code",
+      "page_no": 91,
+      "crop": "visual-crops/p091_0025_code_texts_1821.webp",
+      "crop_sheet": "crop-sheets/crop-sheet-011.webp",
+      "crop_sheet_bbox_px": [
+        6,
+        1467,
+        921,
+        1650
+      ],
+      "page_sheet": "page-sheets/page-sheet-005.webp",
+      "page_sheet_bbox_px": [
+        596,
+        810,
+        874,
+        1170
+      ]
+    },
+    {
+      "self_ref": "#/texts/1823",
+      "kind": "code",
+      "label": "code",
+      "page_no": 91,
+      "crop": "visual-crops/p091_0026_code_texts_1823.webp",
+      "crop_sheet": "crop-sheets/crop-sheet-008.webp",
+      "crop_sheet_bbox_px": [
+        6,
+        1026,
+        918,
+        1446
+      ],
+      "page_sheet": "page-sheets/page-sheet-005.webp",
+      "page_sheet_bbox_px": [
+        596,
+        810,
+        874,
+        1170
+      ]
+    },
+    {
+      "self_ref": "#/texts/1828",
+      "kind": "code",
+      "label": "code",
+      "page_no": 92,
+      "crop": "visual-crops/p092_0027_code_texts_1828.webp",
+      "crop_sheet": "crop-sheets/crop-sheet-007.webp",
+      "crop_sheet_bbox_px": [
+        6,
+        6,
+        927,
+        504
+      ],
+      "page_sheet": "page-sheets/page-sheet-005.webp",
+      "page_sheet_bbox_px": [
+        888,
+        810,
+        1166,
+        1170
+      ]
+    },
+    {
+      "self_ref": "#/texts/1830",
+      "kind": "code",
+      "label": "code",
+      "page_no": 92,
+      "crop": "visual-crops/p092_0028_code_texts_1830.webp",
+      "crop_sheet": "crop-sheets/crop-sheet-012.webp",
+      "crop_sheet_bbox_px": [
+        6,
+        410,
+        880,
+        692
+      ],
+      "page_sheet": "page-sheets/page-sheet-005.webp",
+      "page_sheet_bbox_px": [
+        888,
+        810,
+        1166,
+        1170
+      ]
+    },
+    {
+      "self_ref": "#/texts/1833",
+      "kind": "code",
+      "label": "code",
+      "page_no": 92,
+      "crop": "visual-crops/p092_0029_code_texts_1833.webp",
+      "crop_sheet": "crop-sheets/crop-sheet-013.webp",
+      "crop_sheet_bbox_px": [
+        6,
+        1506,
+        921,
+        1650
+      ],
+      "page_sheet": "page-sheets/page-sheet-005.webp",
+      "page_sheet_bbox_px": [
+        888,
+        810,
+        1166,
+        1170
+      ]
+    },
+    {
+      "self_ref": "#/texts/1835",
+      "kind": "code",
+      "label": "code",
+      "page_no": 93,
+      "crop": "visual-crops/p093_0030_code_texts_1835.webp",
+      "crop_sheet": "crop-sheets/crop-sheet-012.webp",
+      "crop_sheet_bbox_px": [
+        6,
+        1339,
+        921,
+        1601
+      ],
+      "page_sheet": "page-sheets/page-sheet-005.webp",
+      "page_sheet_bbox_px": [
+        12,
+        1209,
+        290,
+        1569
+      ]
+    },
+    {
+      "self_ref": "#/texts/1837",
+      "kind": "code",
+      "label": "code",
+      "page_no": 93,
+      "crop": "visual-crops/p093_0031_code_texts_1837.webp",
+      "crop_sheet": "crop-sheets/crop-sheet-003.webp",
+      "crop_sheet_bbox_px": [
+        6,
+        1041,
+        921,
+        1599
+      ],
+      "page_sheet": "page-sheets/page-sheet-005.webp",
+      "page_sheet_bbox_px": [
+        12,
+        1209,
+        290,
+        1569
+      ]
+    },
+    {
+      "self_ref": "#/texts/1840",
+      "kind": "code",
+      "label": "code",
+      "page_no": 93,
+      "crop": "visual-crops/p093_0032_code_texts_1840.webp",
+      "crop_sheet": "crop-sheets/crop-sheet-015.webp",
+      "crop_sheet_bbox_px": [
+        6,
+        283,
+        902,
+        407
+      ],
+      "page_sheet": "page-sheets/page-sheet-005.webp",
+      "page_sheet_bbox_px": [
+        12,
+        1209,
+        290,
+        1569
+      ]
+    },
+    {
+      "self_ref": "#/texts/1858",
+      "kind": "code",
+      "label": "code",
+      "page_no": 95,
+      "crop": "visual-crops/p095_0033_code_texts_1858.webp",
+      "crop_sheet": "crop-sheets/crop-sheet-002.webp",
+      "crop_sheet_bbox_px": [
+        6,
+        1199,
+        930,
+        1637
+      ],
+      "page_sheet": "page-sheets/page-sheet-005.webp",
+      "page_sheet_bbox_px": [
+        596,
+        1209,
+        874,
+        1569
+      ]
+    },
+    {
+      "self_ref": "#/texts/1861",
+      "kind": "code",
+      "label": "code",
+      "page_no": 96,
+      "crop": "visual-crops/p096_0034_code_texts_1861.webp",
+      "crop_sheet": "crop-sheets/crop-sheet-002.webp",
+      "crop_sheet_bbox_px": [
+        6,
+        6,
+        938,
+        1158
+      ],
+      "page_sheet": "page-sheets/page-sheet-005.webp",
+      "page_sheet_bbox_px": [
+        888,
+        1209,
+        1166,
+        1569
+      ]
+    },
+    {
+      "self_ref": "#/tables/16",
+      "kind": "table",
+      "label": "table",
+      "page_no": 98,
+      "crop": "visual-crops/p098_0074_table_tables_16.webp",
+      "crop_sheet": "crop-sheets/crop-sheet-006.webp",
+      "crop_sheet_bbox_px": [
+        6,
+        6,
+        895,
+        645
+      ],
+      "page_sheet": "page-sheets/page-sheet-005.webp",
+      "page_sheet_bbox_px": [
+        304,
+        1608,
+        582,
+        1968
+      ]
+    },
+    {
+      "self_ref": "#/tables/17",
+      "kind": "table",
+      "label": "table",
+      "page_no": 99,
+      "crop": "visual-crops/p099_0075_table_tables_17.webp",
+      "crop_sheet": "crop-sheets/crop-sheet-011.webp",
+      "crop_sheet_bbox_px": [
+        6,
+        793,
+        827,
+        1123
+      ],
+      "page_sheet": "page-sheets/page-sheet-005.webp",
+      "page_sheet_bbox_px": [
+        596,
+        1608,
+        874,
+        1968
+      ]
+    },
+    {
+      "self_ref": "#/tables/18",
+      "kind": "table",
+      "label": "table",
+      "page_no": 99,
+      "crop": "visual-crops/p099_0076_table_tables_18.webp",
+      "crop_sheet": "crop-sheets/crop-sheet-014.webp",
+      "crop_sheet_bbox_px": [
+        6,
+        795,
+        878,
+        1009
+      ],
+      "page_sheet": "page-sheets/page-sheet-005.webp",
+      "page_sheet_bbox_px": [
+        596,
+        1608,
+        874,
+        1968
+      ]
+    },
+    {
+      "self_ref": "#/texts/1890",
+      "kind": "code",
+      "label": "code",
+      "page_no": 100,
+      "crop": "visual-crops/p100_0035_code_texts_1890.webp",
+      "crop_sheet": "crop-sheets/crop-sheet-005.webp",
+      "crop_sheet_bbox_px": [
+        6,
+        6,
+        921,
+        875
+      ],
+      "page_sheet": "page-sheets/page-sheet-005.webp",
+      "page_sheet_bbox_px": [
+        888,
+        1608,
+        1166,
+        1968
+      ]
+    },
+    {
+      "self_ref": "#/tables/19",
+      "kind": "table",
+      "label": "table",
+      "page_no": 102,
+      "crop": "visual-crops/p102_0077_table_tables_19.webp",
+      "crop_sheet": "crop-sheets/crop-sheet-009.webp",
+      "crop_sheet_bbox_px": [
+        6,
+        6,
+        932,
+        395
+      ],
+      "page_sheet": "page-sheets/page-sheet-006.webp",
+      "page_sheet_bbox_px": [
+        304,
+        12,
+        582,
+        372
+      ]
+    },
+    {
+      "self_ref": "#/tables/20",
+      "kind": "table",
+      "label": "table",
+      "page_no": 105,
+      "crop": "visual-crops/p105_0078_table_tables_20.webp",
+      "crop_sheet": "crop-sheets/crop-sheet-001.webp",
+      "crop_sheet_bbox_px": [
+        962,
+        617,
+        1337,
+        734
+      ],
+      "page_sheet": "page-sheets/page-sheet-006.webp",
+      "page_sheet_bbox_px": [
+        304,
+        411,
+        582,
+        771
+      ]
+    },
+    {
+      "self_ref": "#/pictures/21",
+      "kind": "picture",
+      "label": "picture",
+      "page_no": 108,
+      "crop": "visual-crops/p108_0057_picture_pictures_21.webp",
+      "crop_sheet": "crop-sheets/crop-sheet-011.webp",
+      "crop_sheet_bbox_px": [
+        6,
+        415,
+        867,
+        752
+      ],
+      "page_sheet": "page-sheets/page-sheet-006.webp",
+      "page_sheet_bbox_px": [
+        304,
+        810,
+        582,
+        1170
+      ]
+    }
+  ]
+}
