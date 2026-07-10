@@ -5,6 +5,7 @@ description = "Docling context-pack tools for the interactive-understanding skil
 requires-python = ">=3.11"
 dependencies = [
   "docling>=2.108.0",
+  "docling-core>=2.86.0",
   "onnxruntime>=1.22.0",
   "pillow>=10",
   "pydantic>=2",

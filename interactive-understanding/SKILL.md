@@ -24,8 +24,8 @@ directory.
 1. reads or downloads the PDF bytes
 2. validates the bytes start with `%PDF-`
 3. writes validated bytes as `source.pdf`
-4. runs Docling with referenced image export
-5. converts Docling page/artifact images to WebP
+4. converts the PDF in-process with Docling's Python API
+5. writes Docling's rendered page images as WebP
 6. crops Docling bboxes for formulas, code blocks, pictures, and tables
 7. builds crop contact sheets
 8. builds page overview sheets

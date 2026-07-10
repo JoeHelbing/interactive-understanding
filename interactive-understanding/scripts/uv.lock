@@ -648,6 +648,7 @@ version = "0.1.0"
 source = { editable = "." }
 dependencies = [
     { name = "docling" },
+    { name = "docling-core" },
     { name = "onnxruntime" },
     { name = "pillow" },
     { name = "pydantic" },
@@ -662,6 +663,7 @@ dev = [
 [package.metadata]
 requires-dist = [
     { name = "docling", specifier = ">=2.108.0" },
+    { name = "docling-core", specifier = ">=2.86.0" },
     { name = "onnxruntime", specifier = ">=1.22.0" },
     { name = "pillow", specifier = ">=10" },
     { name = "pydantic", specifier = ">=2" },
